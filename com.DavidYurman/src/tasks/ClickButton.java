@@ -29,10 +29,7 @@ public class ClickButton extends VRSuperClass {
 		String screenNameFull  = obj.getObjectId();
 		String screenName = screenNameFull.split("_")[0];
 		System.out.println("screenName"+screenName);
-		
-//		if (screenName.equalsIgnoreCase("BA"))
-//		System.out.println("reached page 6");
-		//logger.log(LogStatus.INFO, "dropdown selected");
+
 		WebElement element = AppObjects.getUIObject(object, screenName, "id");		
 		performAction(element, ActionEnum.CLICK_BUTTON,input);
 	//	logger.log(LogStatus.PASS, "clicked button - " + input);
