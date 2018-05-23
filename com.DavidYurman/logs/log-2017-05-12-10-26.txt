@@ -1,0 +1,45 @@
+05/12/2017 10:26:39, INFO  , searchPStepName : NavigateUrl
+05/12/2017 10:26:39, INFO  , searchPStepNumber : 1.0
+05/12/2017 10:26:39, INFO  , NavigateUrl
+05/12/2017 10:26:39, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 10:27:12, INFO  , searchPStepName : NavigateUrlnTab
+05/12/2017 10:27:12, INFO  , searchPStepNumber : 23.0
+05/12/2017 10:27:12, INFO  , NavigateUrlnTab
+05/12/2017 10:27:12, INFO  , Calling NAVIGATE_URL in new Tab
+05/12/2017 10:27:12, INFO  , searchPStepName : Sleep
+05/12/2017 10:27:12, INFO  , searchPStepNumber : 24.0
+05/12/2017 10:27:12, INFO  , Sleep
+05/12/2017 10:27:12, INFO  , Task SLEEP - Started
+05/12/2017 10:27:37, INFO  , Task SLEEP - Ended
+05/12/2017 10:27:37, INFO  , searchPStepName : ClickLinkXpath
+05/12/2017 10:27:37, INFO  , searchPStepNumber : 25.0
+05/12/2017 10:27:37, INFO  , ClickLinkXpath
+05/12/2017 10:27:37, INFO  , Task CLICK_LINK - Started
+05/12/2017 10:27:43, INFO  , Task CLICK_LINK - Ended
+05/12/2017 10:27:43, INFO  , searchPStepName : Sleep
+05/12/2017 10:27:43, INFO  , searchPStepNumber : 26.0
+05/12/2017 10:27:43, INFO  , Sleep
+05/12/2017 10:27:43, INFO  , Task SLEEP - Started
+05/12/2017 10:27:46, INFO  , Task SLEEP - Ended
+05/12/2017 10:27:46, INFO  , searchPStepName : EnterText
+05/12/2017 10:27:46, INFO  , searchPStepNumber : 27.0
+05/12/2017 10:27:46, INFO  , EnterText
+05/12/2017 10:27:46, INFO  , in case ENTER_TEXT
+05/12/2017 10:27:47, INFO  , searchPStepName : EnterText
+05/12/2017 10:27:47, INFO  , searchPStepNumber : 28.0
+05/12/2017 10:27:47, INFO  , EnterText
+05/12/2017 10:27:47, INFO  , in case ENTER_TEXT
+05/12/2017 10:27:48, INFO  , searchPStepName : ClickButton
+05/12/2017 10:27:48, INFO  , searchPStepNumber : 29.0
+05/12/2017 10:27:48, INFO  , ClickButton
+05/12/2017 10:27:48, INFO  , Task CLICK_BUTTON - Started
+05/12/2017 10:27:48, INFO  , Task CLICK_BUTTON - Ended
+05/12/2017 10:27:48, INFO  , searchPStepName : Sleep
+05/12/2017 10:27:48, INFO  , searchPStepNumber : 30.0
+05/12/2017 10:27:48, INFO  , Sleep
+05/12/2017 10:27:48, INFO  , Task SLEEP - Started
+05/12/2017 10:27:51, INFO  , Task SLEEP - Ended
+05/12/2017 10:27:51, INFO  , searchPStepName : VerifyText
+05/12/2017 10:27:51, INFO  , searchPStepNumber : 31.0
+05/12/2017 10:27:51, INFO  , VerifyText
+05/12/2017 10:27:51, INFO  , Task VERIFY_TEXT - Started

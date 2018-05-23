@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke Test Suite" verbose="1" >
+  <test name="Test Cases" >
+    <classes>
+       <class name="main.DriverScript">
+        <methods>
+        <exclude name="Order" />
+        <exclude name="productDetails" />
+        <exclude name="orderHistory" />
+        <exclude name="invoiceHistory" />
+        <exclude name="quickOrder" />
+        <include name="iolActive" />
+        <include name="iolHistory" />
+      </methods>
+       </class>
+    </classes>
+  </test>
+</suite>

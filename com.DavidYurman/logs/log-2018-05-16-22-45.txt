@@ -1,0 +1,17 @@
+05/16/2018 22:45:32, INFO  , searchPStepName : NavigateUrl
+05/16/2018 22:45:32, INFO  , searchPStepNumber : 1.0
+05/16/2018 22:45:32, INFO  , NavigateUrl
+05/16/2018 22:45:32, INFO  , Calling NAVIGATE_URL
+05/16/2018 22:45:54, INFO  , searchPStepName : ClickLinkXpath
+05/16/2018 22:45:54, INFO  , searchPStepNumber : 3.0
+05/16/2018 22:45:54, INFO  , ClickLinkXpath
+05/16/2018 22:45:54, INFO  , Task CLICK_LINK - Started
+05/16/2018 22:47:04, INFO  , searchPStepName : Sleep
+05/16/2018 22:47:04, INFO  , searchPStepNumber : 10.0
+05/16/2018 22:47:04, INFO  , Sleep
+05/16/2018 22:47:04, INFO  , Task SLEEP - Started
+05/16/2018 22:47:05, INFO  , Task SLEEP - Ended
+05/16/2018 22:47:05, INFO  , searchPStepName : ClickIcon
+05/16/2018 22:47:05, INFO  , searchPStepNumber : 11.0
+05/16/2018 22:47:05, INFO  , ClickIcon
+05/16/2018 22:47:05, INFO  , Calling CLICK_ICON

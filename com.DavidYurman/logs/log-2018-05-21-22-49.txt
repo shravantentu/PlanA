@@ -1,0 +1,88 @@
+05/21/2018 22:49:37, INFO  , searchPStepName : NavigateUrl
+05/21/2018 22:49:37, INFO  , searchPStepNumber : 1.0
+05/21/2018 22:49:37, INFO  , NavigateUrl
+05/21/2018 22:49:37, INFO  , Calling NAVIGATE_URL
+05/21/2018 22:51:11, INFO  , searchPStepName : ClickLinkXpath
+05/21/2018 22:51:11, INFO  , searchPStepNumber : 3.0
+05/21/2018 22:51:11, INFO  , ClickLinkXpath
+05/21/2018 22:51:11, INFO  , Task CLICK_LINK - Started
+05/21/2018 22:51:24, INFO  , Task CLICK_LINK - Ended
+05/21/2018 22:51:24, INFO  , searchPStepName : Sleep
+05/21/2018 22:51:24, INFO  , searchPStepNumber : 4.0
+05/21/2018 22:51:24, INFO  , Sleep
+05/21/2018 22:51:24, INFO  , Task SLEEP - Started
+05/21/2018 22:51:24, INFO  , Task SLEEP - Ended
+05/21/2018 22:51:24, INFO  , searchPStepName : ClickLink
+05/21/2018 22:51:24, INFO  , searchPStepNumber : 5.0
+05/21/2018 22:51:24, INFO  , ClickLink
+05/21/2018 22:51:24, INFO  , Task CLICK_LINK - Started
+05/21/2018 22:51:45, INFO  , Task CLICK_LINK - Ended
+05/21/2018 22:51:45, INFO  , searchPStepName : EnterText
+05/21/2018 22:51:45, INFO  , searchPStepNumber : 6.0
+05/21/2018 22:51:45, INFO  , EnterText
+05/21/2018 22:51:45, INFO  , in case ENTER_TEXT
+05/21/2018 22:51:45, INFO  , searchPStepName : EnterText
+05/21/2018 22:51:45, INFO  , searchPStepNumber : 16.0
+05/21/2018 22:51:45, INFO  , EnterText
+05/21/2018 22:51:45, INFO  , in case ENTER_TEXT
+05/21/2018 22:51:46, INFO  , searchPStepName : EnterText
+05/21/2018 22:51:46, INFO  , searchPStepNumber : 17.0
+05/21/2018 22:51:46, INFO  , EnterText
+05/21/2018 22:51:46, INFO  , in case ENTER_TEXT
+05/21/2018 22:51:47, INFO  , searchPStepName : EnterText
+05/21/2018 22:51:47, INFO  , searchPStepNumber : 18.0
+05/21/2018 22:51:47, INFO  , EnterText
+05/21/2018 22:51:47, INFO  , in case ENTER_TEXT
+05/21/2018 22:51:47, INFO  , searchPStepName : EnterText
+05/21/2018 22:51:47, INFO  , searchPStepNumber : 19.0
+05/21/2018 22:51:47, INFO  , EnterText
+05/21/2018 22:51:47, INFO  , in case ENTER_TEXT
+05/21/2018 22:51:48, INFO  , searchPStepName : Sleep
+05/21/2018 22:51:48, INFO  , searchPStepNumber : 20.0
+05/21/2018 22:51:48, INFO  , Sleep
+05/21/2018 22:51:48, INFO  , Task SLEEP - Started
+05/21/2018 22:51:48, INFO  , Task SLEEP - Ended
+05/21/2018 22:51:48, INFO  , searchPStepName : ClickButton
+05/21/2018 22:51:48, INFO  , searchPStepNumber : 23.0
+05/21/2018 22:51:48, INFO  , ClickButton
+05/21/2018 22:51:48, INFO  , Task CLICK_BUTTON - Started
+05/21/2018 22:52:01, INFO  , Task CLICK_BUTTON - Ended
+05/21/2018 22:52:01, INFO  , searchPStepName : Sleep
+05/21/2018 22:52:01, INFO  , searchPStepNumber : 24.0
+05/21/2018 22:52:01, INFO  , Sleep
+05/21/2018 22:52:01, INFO  , Task SLEEP - Started
+05/21/2018 22:52:11, INFO  , Task SLEEP - Ended
+05/21/2018 22:52:11, INFO  , searchPStepName : ClickLinkXpath
+05/21/2018 22:52:11, INFO  , searchPStepNumber : 25
+05/21/2018 22:52:11, INFO  , ClickLinkXpath
+05/21/2018 22:52:11, INFO  , Task CLICK_LINK - Started
+05/21/2018 22:52:22, INFO  , Task CLICK_LINK - Ended
+05/21/2018 22:52:22, INFO  , searchPStepName : Sleep
+05/21/2018 22:52:22, INFO  , searchPStepNumber : 26
+05/21/2018 22:52:22, INFO  , Sleep
+05/21/2018 22:52:22, INFO  , Task SLEEP - Started
+05/21/2018 22:52:24, INFO  , Task SLEEP - Ended
+05/21/2018 22:52:24, INFO  , Testcase completed
+05/21/2018 22:52:25, INFO  , searchPStepName : ClickLinkXpath
+05/21/2018 22:52:25, INFO  , searchPStepNumber : 3.0
+05/21/2018 22:52:25, INFO  , ClickLinkXpath
+05/21/2018 22:52:25, INFO  , Task CLICK_LINK - Started
+05/21/2018 22:52:30, INFO  , Task CLICK_LINK - Ended
+05/21/2018 22:52:30, INFO  , searchPStepName : Sleep
+05/21/2018 22:52:30, INFO  , searchPStepNumber : 4.0
+05/21/2018 22:52:30, INFO  , Sleep
+05/21/2018 22:52:30, INFO  , Task SLEEP - Started
+05/21/2018 22:52:31, INFO  , Task SLEEP - Ended
+05/21/2018 22:52:31, INFO  , searchPStepName : EnterText
+05/21/2018 22:52:31, INFO  , searchPStepNumber : 5.0
+05/21/2018 22:52:31, INFO  , EnterText
+05/21/2018 22:52:31, INFO  , in case ENTER_TEXT
+05/21/2018 22:53:05, INFO  , searchPStepName : Sleep
+05/21/2018 22:53:05, INFO  , searchPStepNumber : 10.0
+05/21/2018 22:53:05, INFO  , Sleep
+05/21/2018 22:53:05, INFO  , Task SLEEP - Started
+05/21/2018 22:53:06, INFO  , Task SLEEP - Ended
+05/21/2018 22:53:06, INFO  , searchPStepName : ClickIcon
+05/21/2018 22:53:06, INFO  , searchPStepNumber : 11.0
+05/21/2018 22:53:06, INFO  , ClickIcon
+05/21/2018 22:53:06, INFO  , Calling CLICK_ICON

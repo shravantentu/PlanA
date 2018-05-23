@@ -1,0 +1,8 @@
+05/16/2018 23:08:13, INFO  , searchPStepName : NavigateUrl
+05/16/2018 23:08:13, INFO  , searchPStepNumber : 1.0
+05/16/2018 23:08:13, INFO  , NavigateUrl
+05/16/2018 23:08:13, INFO  , Calling NAVIGATE_URL
+05/16/2018 23:08:31, INFO  , searchPStepName : ClickLinkXpath
+05/16/2018 23:08:31, INFO  , searchPStepNumber : 3.0
+05/16/2018 23:08:31, INFO  , ClickLinkXpath
+05/16/2018 23:08:31, INFO  , Task CLICK_LINK - Started

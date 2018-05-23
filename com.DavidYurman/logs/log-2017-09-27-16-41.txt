@@ -1,0 +1,44 @@
+09/27/2017 16:41:49, INFO  , searchPStepName : NavigateUrl
+09/27/2017 16:41:49, INFO  , searchPStepNumber : 1.0
+09/27/2017 16:41:49, INFO  , NavigateUrl
+09/27/2017 16:41:49, INFO  , Calling NAVIGATE_URL
+09/27/2017 16:43:12, INFO  , searchPStepName : Sleep
+09/27/2017 16:43:12, INFO  , searchPStepNumber : 2.0
+09/27/2017 16:43:12, INFO  , Sleep
+09/27/2017 16:43:12, INFO  , Task SLEEP - Started
+09/27/2017 16:43:16, INFO  , Task SLEEP - Ended
+09/27/2017 16:43:16, INFO  , searchPStepName : EnterText
+09/27/2017 16:43:16, INFO  , searchPStepNumber : 3.0
+09/27/2017 16:43:16, INFO  , EnterText
+09/27/2017 16:43:16, INFO  , in case ENTER_TEXT
+09/27/2017 16:43:18, INFO  , searchPStepName : EnterText
+09/27/2017 16:43:18, INFO  , searchPStepNumber : 4.0
+09/27/2017 16:43:18, INFO  , EnterText
+09/27/2017 16:43:18, INFO  , in case ENTER_TEXT
+09/27/2017 16:43:18, INFO  , searchPStepName : Sleep
+09/27/2017 16:43:18, INFO  , searchPStepNumber : 5.0
+09/27/2017 16:43:18, INFO  , Sleep
+09/27/2017 16:43:18, INFO  , Task SLEEP - Started
+09/27/2017 16:43:18, INFO  , Task SLEEP - Ended
+09/27/2017 16:43:18, INFO  , searchPStepName : ClickCheckBox
+09/27/2017 16:43:18, INFO  , searchPStepNumber : 6.0
+09/27/2017 16:43:18, INFO  , ClickCheckBox
+09/27/2017 16:43:18, INFO  , in case CLICK CHECK BOX
+09/27/2017 16:43:18, INFO  , searchPStepName : Sleep
+09/27/2017 16:43:18, INFO  , searchPStepNumber : 7.0
+09/27/2017 16:43:18, INFO  , Sleep
+09/27/2017 16:43:18, INFO  , Task SLEEP - Started
+09/27/2017 16:43:22, INFO  , Task SLEEP - Ended
+09/27/2017 16:43:22, INFO  , searchPStepName : ClickIcon
+09/27/2017 16:43:22, INFO  , searchPStepNumber : 8.0
+09/27/2017 16:43:22, INFO  , ClickIcon
+09/27/2017 16:43:22, INFO  , Calling CLICK_ICON
+09/27/2017 16:44:29, INFO  , searchPStepName : Sleep
+09/27/2017 16:44:29, INFO  , searchPStepNumber : 6.0
+09/27/2017 16:44:29, INFO  , Sleep
+09/27/2017 16:44:29, INFO  , Task SLEEP - Started
+09/27/2017 16:44:34, INFO  , Task SLEEP - Ended
+09/27/2017 16:44:34, INFO  , searchPStepName : ClickLinkXpath
+09/27/2017 16:44:34, INFO  , searchPStepNumber : 11.0
+09/27/2017 16:44:34, INFO  , ClickLinkXpath
+09/27/2017 16:44:34, INFO  , Task CLICK_LINK - Started

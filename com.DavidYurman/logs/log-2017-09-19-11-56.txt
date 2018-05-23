@@ -1,0 +1,134 @@
+09/19/2017 11:56:31, INFO  , searchPStepName : NavigateUrl
+09/19/2017 11:56:31, INFO  , searchPStepNumber : 1.0
+09/19/2017 11:56:31, INFO  , NavigateUrl
+09/19/2017 11:56:31, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/19/2017 11:57:13, INFO  , searchPStepName : ClickLinkXpath
+09/19/2017 11:57:13, INFO  , searchPStepNumber : 3.0
+09/19/2017 11:57:13, INFO  , ClickLinkXpath
+09/19/2017 11:57:13, INFO  , Task CLICK_LINK - Started
+09/19/2017 11:58:06, INFO  , Task CLICK_LINK - Ended
+09/19/2017 11:58:06, INFO  , searchPStepName : Sleep
+09/19/2017 11:58:06, INFO  , searchPStepNumber : 4.0
+09/19/2017 11:58:06, INFO  , Sleep
+09/19/2017 11:58:06, INFO  , Task SLEEP - Started
+09/19/2017 11:58:09, INFO  , Task SLEEP - Ended
+09/19/2017 11:58:09, INFO  , searchPStepName : EnterText
+09/19/2017 11:58:09, INFO  , searchPStepNumber : 5.0
+09/19/2017 11:58:09, INFO  , EnterText
+09/19/2017 11:58:09, INFO  , in case ENTER_TEXT
+09/19/2017 11:58:10, INFO  , searchPStepName : EnterText
+09/19/2017 11:58:10, INFO  , searchPStepNumber : 6.0
+09/19/2017 11:58:10, INFO  , EnterText
+09/19/2017 11:58:10, INFO  , in case ENTER_TEXT
+09/19/2017 11:58:11, INFO  , searchPStepName : ClickButton
+09/19/2017 11:58:11, INFO  , searchPStepNumber : 7.0
+09/19/2017 11:58:11, INFO  , ClickButton
+09/19/2017 11:58:11, INFO  , Task CLICK_BUTTON - Started
+09/19/2017 11:58:22, INFO  , Task CLICK_BUTTON - Ended
+09/19/2017 11:58:22, INFO  , searchPStepName : Sleep
+09/19/2017 11:58:22, INFO  , searchPStepNumber : 8.0
+09/19/2017 11:58:22, INFO  , Sleep
+09/19/2017 11:58:22, INFO  , Task SLEEP - Started
+09/19/2017 11:58:25, INFO  , Task SLEEP - Ended
+09/19/2017 11:58:25, INFO  , searchPStepName : MouseHover
+09/19/2017 11:58:25, INFO  , searchPStepNumber : 10.0
+09/19/2017 11:58:25, INFO  , MouseHover
+09/19/2017 11:58:25, INFO  , Task MOUSE_HOVER - Started
+09/19/2017 11:58:26, INFO  , Task MOUSE_HOVER - Ended
+09/19/2017 11:58:26, INFO  , searchPStepName : Sleep
+09/19/2017 11:58:26, INFO  , searchPStepNumber : 11.0
+09/19/2017 11:58:26, INFO  , Sleep
+09/19/2017 11:58:26, INFO  , Task SLEEP - Started
+09/19/2017 11:58:27, INFO  , Task SLEEP - Ended
+09/19/2017 11:58:27, INFO  , searchPStepName : ClickLink
+09/19/2017 11:58:27, INFO  , searchPStepNumber : 12.0
+09/19/2017 11:58:27, INFO  , ClickLink
+09/19/2017 11:58:27, INFO  , Task CLICK_LINK - Started
+09/19/2017 11:58:41, INFO  , Task CLICK_LINK - Ended
+09/19/2017 11:58:41, INFO  , searchPStepName : Sleep
+09/19/2017 11:58:41, INFO  , searchPStepNumber : 15.0
+09/19/2017 11:58:41, INFO  , Sleep
+09/19/2017 11:58:41, INFO  , Task SLEEP - Started
+09/19/2017 11:58:43, INFO  , Task SLEEP - Ended
+09/19/2017 11:58:43, INFO  , searchPStepName : ClickLinkXpath
+09/19/2017 11:58:43, INFO  , searchPStepNumber : 16.0
+09/19/2017 11:58:43, INFO  , ClickLinkXpath
+09/19/2017 11:58:43, INFO  , Task CLICK_LINK - Started
+09/19/2017 11:59:17, INFO  , Task CLICK_LINK - Ended
+09/19/2017 11:59:17, INFO  , searchPStepName : Sleep
+09/19/2017 11:59:17, INFO  , searchPStepNumber : 17.0
+09/19/2017 11:59:17, INFO  , Sleep
+09/19/2017 11:59:17, INFO  , Task SLEEP - Started
+09/19/2017 11:59:21, INFO  , Task SLEEP - Ended
+09/19/2017 11:59:21, INFO  , searchPStepName : ClickLink
+09/19/2017 11:59:21, INFO  , searchPStepNumber : 18.0
+09/19/2017 11:59:21, INFO  , ClickLink
+09/19/2017 11:59:21, INFO  , Task CLICK_LINK - Started
+09/19/2017 11:59:21, INFO  , Task CLICK_LINK - Ended
+09/19/2017 11:59:21, INFO  , searchPStepName : Sleep
+09/19/2017 11:59:21, INFO  , searchPStepNumber : 19.0
+09/19/2017 11:59:21, INFO  , Sleep
+09/19/2017 11:59:21, INFO  , Task SLEEP - Started
+09/19/2017 11:59:24, INFO  , Task SLEEP - Ended
+09/19/2017 11:59:24, INFO  , searchPStepName : SelectDropdownValue
+09/19/2017 11:59:24, INFO  , searchPStepNumber : 20.0
+09/19/2017 11:59:24, INFO  , SelectDropdownValue
+09/19/2017 11:59:24, INFO  , Calling SELECT_DROP_DOWN_VALUE Task from AccessCMS TestCase Script
+09/19/2017 11:59:25, INFO  , searchPStepName : Sleep
+09/19/2017 11:59:25, INFO  , searchPStepNumber : 21.0
+09/19/2017 11:59:25, INFO  , Sleep
+09/19/2017 11:59:25, INFO  , Task SLEEP - Started
+09/19/2017 11:59:28, INFO  , Task SLEEP - Ended
+09/19/2017 11:59:28, INFO  , searchPStepName : ClickButton
+09/19/2017 11:59:28, INFO  , searchPStepNumber : 22.0
+09/19/2017 11:59:28, INFO  , ClickButton
+09/19/2017 11:59:28, INFO  , Task CLICK_BUTTON - Started
+09/19/2017 11:59:28, INFO  , Task CLICK_BUTTON - Ended
+09/19/2017 11:59:28, INFO  , searchPStepName : Sleep
+09/19/2017 11:59:28, INFO  , searchPStepNumber : 23.0
+09/19/2017 11:59:28, INFO  , Sleep
+09/19/2017 11:59:28, INFO  , Task SLEEP - Started
+09/19/2017 11:59:35, INFO  , Task SLEEP - Ended
+09/19/2017 11:59:35, INFO  , searchPStepName : MouseHover
+09/19/2017 11:59:35, INFO  , searchPStepNumber : 24.0
+09/19/2017 11:59:35, INFO  , MouseHover
+09/19/2017 11:59:35, INFO  , Task MOUSE_HOVER - Started
+09/19/2017 11:59:36, INFO  , Task MOUSE_HOVER - Ended
+09/19/2017 11:59:36, INFO  , searchPStepName : Sleep
+09/19/2017 11:59:36, INFO  , searchPStepNumber : 25.0
+09/19/2017 11:59:36, INFO  , Sleep
+09/19/2017 11:59:36, INFO  , Task SLEEP - Started
+09/19/2017 11:59:38, INFO  , Task SLEEP - Ended
+09/19/2017 11:59:38, INFO  , searchPStepName : ClickIcon
+09/19/2017 11:59:38, INFO  , searchPStepNumber : 26.0
+09/19/2017 11:59:38, INFO  , ClickIcon
+09/19/2017 11:59:38, INFO  , Calling CLICK_ICON Task from AccessingQuestionsonFAQPage TestCase Script
+09/19/2017 11:59:52, INFO  , searchPStepName : Sleep
+09/19/2017 11:59:52, INFO  , searchPStepNumber : 27.0
+09/19/2017 11:59:52, INFO  , Sleep
+09/19/2017 11:59:52, INFO  , Task SLEEP - Started
+09/19/2017 11:59:57, INFO  , Task SLEEP - Ended
+09/19/2017 11:59:57, INFO  , searchPStepName : ClickButton
+09/19/2017 11:59:57, INFO  , searchPStepNumber : 28.0
+09/19/2017 11:59:57, INFO  , ClickButton
+09/19/2017 11:59:57, INFO  , Task CLICK_BUTTON - Started
+09/19/2017 11:59:57, INFO  , Task CLICK_BUTTON - Ended
+09/19/2017 11:59:57, INFO  , searchPStepName : Sleep
+09/19/2017 11:59:57, INFO  , searchPStepNumber : 29.0
+09/19/2017 11:59:57, INFO  , Sleep
+09/19/2017 11:59:57, INFO  , Task SLEEP - Started
+09/19/2017 12:00:02, INFO  , Task SLEEP - Ended
+09/19/2017 12:00:02, INFO  , searchPStepName : ClickButton
+09/19/2017 12:00:02, INFO  , searchPStepNumber : 30.0
+09/19/2017 12:00:02, INFO  , ClickButton
+09/19/2017 12:00:02, INFO  , Task CLICK_BUTTON - Started
+09/19/2017 12:00:03, INFO  , Task CLICK_BUTTON - Ended
+09/19/2017 12:00:03, INFO  , searchPStepName : Sleep
+09/19/2017 12:00:03, INFO  , searchPStepNumber : 31.0
+09/19/2017 12:00:03, INFO  , Sleep
+09/19/2017 12:00:03, INFO  , Task SLEEP - Started
+09/19/2017 12:00:07, INFO  , Task SLEEP - Ended
+09/19/2017 12:00:07, INFO  , searchPStepName : EnterText
+09/19/2017 12:00:07, INFO  , searchPStepNumber : 32.0
+09/19/2017 12:00:07, INFO  , EnterText
+09/19/2017 12:00:07, INFO  , in case ENTER_TEXT

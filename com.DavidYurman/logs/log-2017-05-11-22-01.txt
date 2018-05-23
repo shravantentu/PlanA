@@ -1,0 +1,85 @@
+05/11/2017 22:01:49, INFO  , searchPStepName : NavigateUrl
+05/11/2017 22:01:49, INFO  , searchPStepNumber : 1.0
+05/11/2017 22:01:49, INFO  , NavigateUrl
+05/11/2017 22:01:49, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/11/2017 22:02:56, INFO  , searchPStepName : Sleep
+05/11/2017 22:02:56, INFO  , searchPStepNumber : 2.0
+05/11/2017 22:02:56, INFO  , Sleep
+05/11/2017 22:02:56, INFO  , Task SLEEP - Started
+05/11/2017 22:02:58, INFO  , Task SLEEP - Ended
+05/11/2017 22:02:58, INFO  , searchPStepName : MouseHover
+05/11/2017 22:02:58, INFO  , searchPStepNumber : 3.0
+05/11/2017 22:02:58, INFO  , MouseHover
+05/11/2017 22:02:58, INFO  , Task MOUSE_HOVER - Started
+05/11/2017 22:02:59, INFO  , Task MOUSE_HOVER - Ended
+05/11/2017 22:02:59, INFO  , searchPStepName : Sleep
+05/11/2017 22:02:59, INFO  , searchPStepNumber : 4.0
+05/11/2017 22:02:59, INFO  , Sleep
+05/11/2017 22:02:59, INFO  , Task SLEEP - Started
+05/11/2017 22:03:01, INFO  , Task SLEEP - Ended
+05/11/2017 22:03:01, INFO  , searchPStepName : ClickLink
+05/11/2017 22:03:01, INFO  , searchPStepNumber : 5.0
+05/11/2017 22:03:01, INFO  , ClickLink
+05/11/2017 22:03:01, INFO  , Task CLICK_LINK - Started
+05/11/2017 22:03:09, INFO  , Task CLICK_LINK - Ended
+05/11/2017 22:03:09, INFO  , searchPStepName : Sleep
+05/11/2017 22:03:09, INFO  , searchPStepNumber : 6.0
+05/11/2017 22:03:09, INFO  , Sleep
+05/11/2017 22:03:09, INFO  , Task SLEEP - Started
+05/11/2017 22:03:15, INFO  , Task SLEEP - Ended
+05/11/2017 22:03:15, INFO  , searchPStepName : VerifyElement
+05/11/2017 22:03:15, INFO  , searchPStepNumber : 7.0
+05/11/2017 22:03:15, INFO  , VerifyElement
+05/11/2017 22:03:15, INFO  , Verify_BUTTON - Started
+05/11/2017 22:03:16, INFO  , Task Verify_BUTTON - Ended
+05/11/2017 22:03:16, INFO  , searchPStepName : EnterText
+05/11/2017 22:03:16, INFO  , searchPStepNumber : 8.0
+05/11/2017 22:03:16, INFO  , EnterText
+05/11/2017 22:03:16, INFO  , in case ENTER_TEXT
+05/11/2017 22:03:16, INFO  , searchPStepName : EnterText
+05/11/2017 22:03:16, INFO  , searchPStepNumber : 9.0
+05/11/2017 22:03:16, INFO  , EnterText
+05/11/2017 22:03:16, INFO  , in case ENTER_TEXT
+05/11/2017 22:03:17, INFO  , searchPStepName : ClickCheckBox
+05/11/2017 22:03:17, INFO  , searchPStepNumber : 10.0
+05/11/2017 22:03:17, INFO  , ClickCheckBox
+05/11/2017 22:03:17, INFO  , in case CLICK CHECK BOX
+05/11/2017 22:03:17, INFO  , searchPStepName : ClickButton
+05/11/2017 22:03:17, INFO  , searchPStepNumber : 11.0
+05/11/2017 22:03:17, INFO  , ClickButton
+05/11/2017 22:03:17, INFO  , Task CLICK_BUTTON - Started
+05/11/2017 22:03:29, INFO  , Task CLICK_BUTTON - Ended
+05/11/2017 22:03:29, INFO  , searchPStepName : Sleep
+05/11/2017 22:03:29, INFO  , searchPStepNumber : 12.0
+05/11/2017 22:03:29, INFO  , Sleep
+05/11/2017 22:03:29, INFO  , Task SLEEP - Started
+05/11/2017 22:03:34, INFO  , Task SLEEP - Ended
+05/11/2017 22:03:34, INFO  , searchPStepName : MouseHover
+05/11/2017 22:03:34, INFO  , searchPStepNumber : 13.0
+05/11/2017 22:03:34, INFO  , MouseHover
+05/11/2017 22:03:34, INFO  , Task MOUSE_HOVER - Started
+05/11/2017 22:03:35, INFO  , Task MOUSE_HOVER - Ended
+05/11/2017 22:03:35, INFO  , searchPStepName : Sleep
+05/11/2017 22:03:35, INFO  , searchPStepNumber : 14.0
+05/11/2017 22:03:35, INFO  , Sleep
+05/11/2017 22:03:35, INFO  , Task SLEEP - Started
+05/11/2017 22:03:36, INFO  , Task SLEEP - Ended
+05/11/2017 22:03:36, INFO  , searchPStepName : ClickLink
+05/11/2017 22:03:36, INFO  , searchPStepNumber : 15.0
+05/11/2017 22:03:36, INFO  , ClickLink
+05/11/2017 22:03:36, INFO  , Task CLICK_LINK - Started
+05/11/2017 22:04:02, INFO  , Task CLICK_LINK - Ended
+05/11/2017 22:04:02, INFO  , searchPStepName : Sleep
+05/11/2017 22:04:02, INFO  , searchPStepNumber : 16.0
+05/11/2017 22:04:02, INFO  , Sleep
+05/11/2017 22:04:02, INFO  , Task SLEEP - Started
+05/11/2017 22:04:06, INFO  , Task SLEEP - Ended
+05/11/2017 22:04:06, INFO  , searchPStepName : VerifyProductcount
+05/11/2017 22:04:06, INFO  , searchPStepNumber : 17.0
+05/11/2017 22:04:06, INFO  , VerifyProductcount
+05/11/2017 22:04:06, INFO  , Calling VERIFY Search Products
+05/11/2017 22:04:08, INFO  , Testcase completed
+05/11/2017 22:04:10, INFO  , searchPStepName : ClickLinkXpath
+05/11/2017 22:04:10, INFO  , searchPStepNumber : 1.0
+05/11/2017 22:04:10, INFO  , ClickLinkXpath
+05/11/2017 22:04:10, INFO  , Task CLICK_LINK - Started

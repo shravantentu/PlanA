@@ -1,0 +1,82 @@
+05/16/2018 23:16:01, INFO  , searchPStepName : NavigateUrl
+05/16/2018 23:16:01, INFO  , searchPStepNumber : 1.0
+05/16/2018 23:16:01, INFO  , NavigateUrl
+05/16/2018 23:16:01, INFO  , Calling NAVIGATE_URL
+05/16/2018 23:16:18, INFO  , searchPStepName : ClickLinkXpath
+05/16/2018 23:16:18, INFO  , searchPStepNumber : 3.0
+05/16/2018 23:16:18, INFO  , ClickLinkXpath
+05/16/2018 23:16:18, INFO  , Task CLICK_LINK - Started
+05/16/2018 23:16:43, INFO  , Task CLICK_LINK - Ended
+05/16/2018 23:16:43, INFO  , searchPStepName : Sleep
+05/16/2018 23:16:43, INFO  , searchPStepNumber : 4.0
+05/16/2018 23:16:43, INFO  , Sleep
+05/16/2018 23:16:43, INFO  , Task SLEEP - Started
+05/16/2018 23:16:44, INFO  , Task SLEEP - Ended
+05/16/2018 23:16:44, INFO  , searchPStepName : EnterText
+05/16/2018 23:16:44, INFO  , searchPStepNumber : 5.0
+05/16/2018 23:16:44, INFO  , EnterText
+05/16/2018 23:16:44, INFO  , in case ENTER_TEXT
+05/16/2018 23:16:44, INFO  , searchPStepName : EnterText
+05/16/2018 23:16:44, INFO  , searchPStepNumber : 6.0
+05/16/2018 23:16:44, INFO  , EnterText
+05/16/2018 23:16:44, INFO  , in case ENTER_TEXT
+05/16/2018 23:16:45, INFO  , searchPStepName : ClickIcon
+05/16/2018 23:16:45, INFO  , searchPStepNumber : 7.0
+05/16/2018 23:16:45, INFO  , ClickIcon
+05/16/2018 23:16:45, INFO  , Calling CLICK_ICON
+05/16/2018 23:17:03, INFO  , searchPStepName : Sleep
+05/16/2018 23:17:03, INFO  , searchPStepNumber : 8.0
+05/16/2018 23:17:03, INFO  , Sleep
+05/16/2018 23:17:03, INFO  , Task SLEEP - Started
+05/16/2018 23:17:04, INFO  , Task SLEEP - Ended
+05/16/2018 23:17:04, INFO  , searchPStepName : ClickLinkXpath
+05/16/2018 23:17:04, INFO  , searchPStepNumber : 9.0
+05/16/2018 23:17:04, INFO  , ClickLinkXpath
+05/16/2018 23:17:04, INFO  , Task CLICK_LINK - Started
+05/16/2018 23:17:48, INFO  , Task CLICK_LINK - Ended
+05/16/2018 23:17:48, INFO  , searchPStepName : Sleep
+05/16/2018 23:17:48, INFO  , searchPStepNumber : 10.0
+05/16/2018 23:17:48, INFO  , Sleep
+05/16/2018 23:17:48, INFO  , Task SLEEP - Started
+05/16/2018 23:17:50, INFO  , Task SLEEP - Ended
+05/16/2018 23:17:50, INFO  , searchPStepName : ClickLink
+05/16/2018 23:17:50, INFO  , searchPStepNumber : 11.0
+05/16/2018 23:17:50, INFO  , ClickLink
+05/16/2018 23:17:50, INFO  , Task CLICK_LINK - Started
+05/16/2018 23:17:56, INFO  , Task CLICK_LINK - Ended
+05/16/2018 23:17:56, INFO  , searchPStepName : Sleep
+05/16/2018 23:17:56, INFO  , searchPStepNumber : 12.0
+05/16/2018 23:17:56, INFO  , Sleep
+05/16/2018 23:17:56, INFO  , Task SLEEP - Started
+05/16/2018 23:17:56, INFO  , Task SLEEP - Ended
+05/16/2018 23:17:56, INFO  , searchPStepName : fillform
+05/16/2018 23:17:56, INFO  , searchPStepNumber : 13.0
+05/16/2018 23:17:56, INFO  , Fillform
+05/16/2018 23:17:56, INFO  , Start filling form
+05/17/2018 00:24:00, INFO  , searchPStepName : Sleep
+05/17/2018 00:24:00, INFO  , searchPStepNumber : 14
+05/17/2018 00:24:00, INFO  , Sleep
+05/17/2018 00:24:00, INFO  , Task SLEEP - Started
+05/17/2018 00:24:02, INFO  , Task SLEEP - Ended
+05/17/2018 00:24:02, INFO  , searchPStepName : Scroll
+05/17/2018 00:24:02, INFO  , searchPStepNumber : 9.0
+05/17/2018 00:24:02, INFO  , scroll
+05/17/2018 00:24:02, INFO  , VERIFY Scroll
+05/17/2018 00:24:03, INFO  , searchPStepName : ClickButton
+05/17/2018 00:24:03, INFO  , searchPStepNumber : 15.0
+05/17/2018 00:24:03, INFO  , ClickButton
+05/17/2018 00:24:03, INFO  , Task CLICK_BUTTON - Started
+05/17/2018 00:24:03, INFO  , Task CLICK_BUTTON - Ended
+05/17/2018 00:24:03, INFO  , searchPStepName : VerifyText
+05/17/2018 00:24:03, INFO  , searchPStepNumber : 16.0
+05/17/2018 00:24:03, INFO  , VerifyText
+05/17/2018 00:24:03, INFO  , Task VERIFY_TEXT - Started
+05/17/2018 00:24:40, INFO  , searchPStepName : Sleep
+05/17/2018 00:24:40, INFO  , searchPStepNumber : 10.0
+05/17/2018 00:24:40, INFO  , Sleep
+05/17/2018 00:24:40, INFO  , Task SLEEP - Started
+05/17/2018 00:24:42, INFO  , Task SLEEP - Ended
+05/17/2018 00:24:42, INFO  , searchPStepName : ClickIcon
+05/17/2018 00:24:42, INFO  , searchPStepNumber : 11.0
+05/17/2018 00:24:42, INFO  , ClickIcon
+05/17/2018 00:24:42, INFO  , Calling CLICK_ICON

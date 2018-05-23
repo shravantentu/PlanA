@@ -1,0 +1,51 @@
+05/09/2017 12:11:14, INFO  , searchPStepName : NavigateUrl
+05/09/2017 12:11:14, INFO  , searchPStepNumber : 1.0
+05/09/2017 12:11:14, INFO  , NavigateUrl
+05/09/2017 12:11:14, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/09/2017 12:11:48, INFO  , searchPStepName : ClickLink
+05/09/2017 12:11:48, INFO  , searchPStepNumber : 3.0
+05/09/2017 12:11:48, INFO  , ClickLink
+05/09/2017 12:11:48, INFO  , Task CLICK_LINK - Started
+05/09/2017 12:11:49, INFO  , Task CLICK_LINK - Ended
+05/09/2017 12:11:49, INFO  , searchPStepName : EnterText
+05/09/2017 12:11:49, INFO  , searchPStepNumber : 4.0
+05/09/2017 12:11:49, INFO  , EnterText
+05/09/2017 12:11:49, INFO  , in case ENTER_TEXT
+05/09/2017 12:11:49, INFO  , searchPStepName : ClickLink
+05/09/2017 12:11:49, INFO  , searchPStepNumber : 5.0
+05/09/2017 12:11:49, INFO  , ClickLink
+05/09/2017 12:11:49, INFO  , Task CLICK_LINK - Started
+05/09/2017 12:11:59, INFO  , Task CLICK_LINK - Ended
+05/09/2017 12:11:59, INFO  , searchPStepName : Sleep
+05/09/2017 12:11:59, INFO  , searchPStepNumber : 6.0
+05/09/2017 12:11:59, INFO  , Sleep
+05/09/2017 12:11:59, INFO  , Task SLEEP - Started
+05/09/2017 12:12:04, INFO  , Task SLEEP - Ended
+05/09/2017 12:12:04, INFO  , searchPStepName : VerifyProductcount
+05/09/2017 12:12:04, INFO  , searchPStepNumber : 7.0
+05/09/2017 12:12:04, INFO  , VerifyProductcount
+05/09/2017 12:12:04, INFO  , Calling VERIFY Search Products
+05/09/2017 12:12:05, INFO  , searchPStepName : Sleep
+05/09/2017 12:12:05, INFO  , searchPStepNumber : 8.0
+05/09/2017 12:12:05, INFO  , Sleep
+05/09/2017 12:12:05, INFO  , Task SLEEP - Started
+05/09/2017 12:12:07, INFO  , Task SLEEP - Ended
+05/09/2017 12:12:07, INFO  , searchPStepName : Scroll
+05/09/2017 12:12:07, INFO  , searchPStepNumber : 9.0
+05/09/2017 12:12:07, INFO  , scroll
+05/09/2017 12:12:07, INFO  , VERIFY Scroll
+05/09/2017 12:12:08, INFO  , searchPStepName : Sleep
+05/09/2017 12:12:08, INFO  , searchPStepNumber : 10.0
+05/09/2017 12:12:08, INFO  , Sleep
+05/09/2017 12:12:08, INFO  , Task SLEEP - Started
+05/09/2017 12:12:18, INFO  , Task SLEEP - Ended
+05/09/2017 12:12:18, INFO  , searchPStepName : VerifyProductcount
+05/09/2017 12:12:18, INFO  , searchPStepNumber : 11.0
+05/09/2017 12:12:18, INFO  , VerifyProductcount
+05/09/2017 12:12:18, INFO  , Calling VERIFY Search Products
+05/09/2017 12:12:19, INFO  , searchPStepName : Sleep
+05/09/2017 12:12:19, INFO  , searchPStepNumber : 12.0
+05/09/2017 12:12:19, INFO  , Sleep
+05/09/2017 12:12:19, INFO  , Task SLEEP - Started
+05/09/2017 12:12:21, INFO  , Task SLEEP - Ended
+05/09/2017 12:12:21, INFO  , Testcase completed

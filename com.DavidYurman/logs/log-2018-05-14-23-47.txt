@@ -1,0 +1,60 @@
+05/14/2018 23:47:06, INFO  , searchPStepName : NavigateUrl
+05/14/2018 23:47:06, INFO  , searchPStepNumber : 1.0
+05/14/2018 23:47:06, INFO  , NavigateUrl
+05/14/2018 23:47:06, INFO  , Calling NAVIGATE_URL
+05/14/2018 23:47:23, INFO  , searchPStepName : SelectSite
+05/14/2018 23:47:23, INFO  , searchPStepNumber : 3
+05/14/2018 23:47:23, INFO  , SelectSite
+05/14/2018 23:47:23, INFO  , Task SelectSite - Started
+05/14/2018 23:47:24, INFO  , Task SelectSite - Ended
+05/14/2018 23:47:24, INFO  , searchPStepName : ClickLinkXpath
+05/14/2018 23:47:24, INFO  , searchPStepNumber : 3.0
+05/14/2018 23:47:24, INFO  , ClickLinkXpath
+05/14/2018 23:47:24, INFO  , Task CLICK_LINK - Started
+05/14/2018 23:47:33, INFO  , Task CLICK_LINK - Ended
+05/14/2018 23:47:33, INFO  , searchPStepName : Sleep
+05/14/2018 23:47:33, INFO  , searchPStepNumber : 4.0
+05/14/2018 23:47:33, INFO  , Sleep
+05/14/2018 23:47:33, INFO  , Task SLEEP - Started
+05/14/2018 23:47:34, INFO  , Task SLEEP - Ended
+05/14/2018 23:47:34, INFO  , searchPStepName : EnterText
+05/14/2018 23:47:34, INFO  , searchPStepNumber : 5.0
+05/14/2018 23:47:34, INFO  , EnterText
+05/14/2018 23:47:34, INFO  , in case ENTER_TEXT
+05/14/2018 23:47:34, INFO  , searchPStepName : EnterText
+05/14/2018 23:47:34, INFO  , searchPStepNumber : 6.0
+05/14/2018 23:47:34, INFO  , EnterText
+05/14/2018 23:47:34, INFO  , in case ENTER_TEXT
+05/14/2018 23:47:34, INFO  , searchPStepName : ClickIcon
+05/14/2018 23:47:34, INFO  , searchPStepNumber : 7.0
+05/14/2018 23:47:34, INFO  , ClickIcon
+05/14/2018 23:47:34, INFO  , Calling CLICK_ICON
+05/14/2018 23:47:41, INFO  , searchPStepName : Sleep
+05/14/2018 23:47:41, INFO  , searchPStepNumber : 8.0
+05/14/2018 23:47:41, INFO  , Sleep
+05/14/2018 23:47:41, INFO  , Task SLEEP - Started
+05/14/2018 23:47:42, INFO  , Task SLEEP - Ended
+05/14/2018 23:47:42, INFO  , searchPStepName : ClickLinkXpath
+05/14/2018 23:47:42, INFO  , searchPStepNumber : 9.0
+05/14/2018 23:47:42, INFO  , ClickLinkXpath
+05/14/2018 23:47:42, INFO  , Task CLICK_LINK - Started
+05/14/2018 23:47:49, INFO  , Task CLICK_LINK - Ended
+05/14/2018 23:47:49, INFO  , searchPStepName : Sleep
+05/14/2018 23:47:49, INFO  , searchPStepNumber : 10.0
+05/14/2018 23:47:49, INFO  , Sleep
+05/14/2018 23:47:49, INFO  , Task SLEEP - Started
+05/14/2018 23:47:51, INFO  , Task SLEEP - Ended
+05/14/2018 23:47:51, INFO  , searchPStepName : ClickLink
+05/14/2018 23:47:51, INFO  , searchPStepNumber : 11.0
+05/14/2018 23:47:51, INFO  , ClickLink
+05/14/2018 23:47:51, INFO  , Task CLICK_LINK - Started
+05/14/2018 23:48:01, INFO  , Task CLICK_LINK - Ended
+05/14/2018 23:48:01, INFO  , searchPStepName : Sleep
+05/14/2018 23:48:01, INFO  , searchPStepNumber : 12.0
+05/14/2018 23:48:01, INFO  , Sleep
+05/14/2018 23:48:01, INFO  , Task SLEEP - Started
+05/14/2018 23:48:02, INFO  , Task SLEEP - Ended
+05/14/2018 23:48:02, INFO  , searchPStepName : fillform
+05/14/2018 23:48:02, INFO  , searchPStepNumber : 13.0
+05/14/2018 23:48:02, INFO  , Fillform
+05/14/2018 23:48:02, INFO  , Start filling form

@@ -1,0 +1,27 @@
+05/11/2017 18:34:42, INFO  , searchPStepName : NavigateUrl
+05/11/2017 18:34:42, INFO  , searchPStepNumber : 1.0
+05/11/2017 18:34:42, INFO  , NavigateUrl
+05/11/2017 18:34:42, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/11/2017 18:35:39, INFO  , searchPStepName : Sleep
+05/11/2017 18:35:39, INFO  , searchPStepNumber : 2.0
+05/11/2017 18:35:39, INFO  , Sleep
+05/11/2017 18:35:39, INFO  , Task SLEEP - Started
+05/11/2017 18:35:41, INFO  , Task SLEEP - Ended
+05/11/2017 18:35:41, INFO  , searchPStepName : MouseHover
+05/11/2017 18:35:41, INFO  , searchPStepNumber : 3.0
+05/11/2017 18:35:41, INFO  , MouseHover
+05/11/2017 18:35:41, INFO  , Task MOUSE_HOVER - Started
+05/11/2017 18:35:41, INFO  , Task MOUSE_HOVER - Ended
+05/11/2017 18:35:41, INFO  , searchPStepName : Sleep
+05/11/2017 18:35:41, INFO  , searchPStepNumber : 4.0
+05/11/2017 18:35:41, INFO  , Sleep
+05/11/2017 18:35:41, INFO  , Task SLEEP - Started
+05/11/2017 18:35:43, INFO  , Task SLEEP - Ended
+05/11/2017 18:35:43, INFO  , searchPStepName : ClickLink
+05/11/2017 18:35:43, INFO  , searchPStepNumber : 5.0
+05/11/2017 18:35:43, INFO  , ClickLink
+05/11/2017 18:35:43, INFO  , Task CLICK_LINK - Started
+05/11/2017 18:35:47, INFO  , searchPStepName : ClickLinkXpath
+05/11/2017 18:35:47, INFO  , searchPStepNumber : 1.0
+05/11/2017 18:35:47, INFO  , ClickLinkXpath
+05/11/2017 18:35:47, INFO  , Task CLICK_LINK - Started

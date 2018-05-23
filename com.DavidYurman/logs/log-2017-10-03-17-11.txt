@@ -1,0 +1,39 @@
+10/03/2017 17:11:28, INFO  , searchPStepName : NavigateUrl
+10/03/2017 17:11:28, INFO  , searchPStepNumber : 1.0
+10/03/2017 17:11:28, INFO  , NavigateUrl
+10/03/2017 17:11:28, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+10/03/2017 17:12:59, INFO  , searchPStepName : SelectSite
+10/03/2017 17:12:59, INFO  , searchPStepNumber : 3
+10/03/2017 17:12:59, INFO  , SelectSite
+10/03/2017 17:12:59, INFO  , Task SelectSite - Started
+10/03/2017 17:12:59, INFO  , Task SelectSite - Ended
+10/03/2017 17:12:59, INFO  , searchPStepName : ClickLinkXpath
+10/03/2017 17:12:59, INFO  , searchPStepNumber : 3.0
+10/03/2017 17:12:59, INFO  , ClickLinkXpath
+10/03/2017 17:12:59, INFO  , Task CLICK_LINK - Started
+10/03/2017 17:13:55, INFO  , Task CLICK_LINK - Ended
+10/03/2017 17:13:55, INFO  , searchPStepName : Sleep
+10/03/2017 17:13:55, INFO  , searchPStepNumber : 4.0
+10/03/2017 17:13:55, INFO  , Sleep
+10/03/2017 17:13:55, INFO  , Task SLEEP - Started
+10/03/2017 17:13:58, INFO  , Task SLEEP - Ended
+10/03/2017 17:13:58, INFO  , searchPStepName : EnterText
+10/03/2017 17:13:58, INFO  , searchPStepNumber : 5.0
+10/03/2017 17:13:58, INFO  , EnterText
+10/03/2017 17:13:58, INFO  , in case ENTER_TEXT
+10/03/2017 17:13:59, INFO  , searchPStepName : EnterText
+10/03/2017 17:13:59, INFO  , searchPStepNumber : 6.0
+10/03/2017 17:13:59, INFO  , EnterText
+10/03/2017 17:13:59, INFO  , in case ENTER_TEXT
+10/03/2017 17:14:00, INFO  , searchPStepName : ClickIcon
+10/03/2017 17:14:00, INFO  , searchPStepNumber : 7.0
+10/03/2017 17:14:00, INFO  , ClickIcon
+10/03/2017 17:14:00, INFO  , Calling CLICK_ICON Task from AccessingQuestionsonFAQPage TestCase Script
+10/03/2017 17:15:39, INFO  , searchPStepName : NavigateUrl
+10/03/2017 17:15:39, INFO  , searchPStepNumber : 1.0
+10/03/2017 17:15:39, INFO  , NavigateUrl
+10/03/2017 17:15:39, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+10/03/2017 17:16:05, INFO  , searchPStepName : SelectSite
+10/03/2017 17:16:05, INFO  , searchPStepNumber : 3
+10/03/2017 17:16:05, INFO  , SelectSite
+10/03/2017 17:16:05, INFO  , Task SelectSite - Started

@@ -1,0 +1,40 @@
+10/04/2017 15:06:46, INFO  , searchPStepName : NavigateUrl
+10/04/2017 15:06:46, INFO  , searchPStepNumber : 1.0
+10/04/2017 15:06:46, INFO  , NavigateUrl
+10/04/2017 15:06:46, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+10/04/2017 15:06:55, INFO  , searchPStepName : Sleep
+10/04/2017 15:06:55, INFO  , searchPStepNumber : 2.0
+10/04/2017 15:06:55, INFO  , Sleep
+10/04/2017 15:06:55, INFO  , Task SLEEP - Started
+10/04/2017 15:06:56, INFO  , Task SLEEP - Ended
+10/04/2017 15:06:56, INFO  , searchPStepName : SelectSite
+10/04/2017 15:06:56, INFO  , searchPStepNumber : 3
+10/04/2017 15:06:56, INFO  , SelectSite
+10/04/2017 15:06:56, INFO  , Task SelectSite - Started
+10/04/2017 15:06:56, INFO  , Task SelectSite - Ended
+10/04/2017 15:06:56, INFO  , searchPStepName : Sleep
+10/04/2017 15:06:56, INFO  , searchPStepNumber : 2.0
+10/04/2017 15:06:56, INFO  , Sleep
+10/04/2017 15:06:56, INFO  , Task SLEEP - Started
+10/04/2017 15:06:59, INFO  , Task SLEEP - Ended
+10/04/2017 15:06:59, INFO  , searchPStepName : ClickLinkXpath
+10/04/2017 15:06:59, INFO  , searchPStepNumber : 3.0
+10/04/2017 15:06:59, INFO  , ClickLinkXpath
+10/04/2017 15:06:59, INFO  , Task CLICK_LINK - Started
+10/04/2017 15:07:06, INFO  , searchPStepName : NavigateUrl
+10/04/2017 15:07:06, INFO  , searchPStepNumber : 1.0
+10/04/2017 15:07:06, INFO  , NavigateUrl
+10/04/2017 15:07:06, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+10/04/2017 15:07:16, INFO  , searchPStepName : SelectSite
+10/04/2017 15:07:16, INFO  , searchPStepNumber : 3
+10/04/2017 15:07:16, INFO  , SelectSite
+10/04/2017 15:07:16, INFO  , Task SelectSite - Started
+10/04/2017 15:07:16, INFO  , Task SelectSite - Ended
+10/04/2017 15:07:16, INFO  , searchPStepName : ClickLinkXpath
+10/04/2017 15:07:16, INFO  , searchPStepNumber : 3.0
+10/04/2017 15:07:16, INFO  , ClickLinkXpath
+10/04/2017 15:07:16, INFO  , Task CLICK_LINK - Started
+10/04/2017 15:07:22, INFO  , searchPStepName : NavigateUrl
+10/04/2017 15:07:22, INFO  , searchPStepNumber : 1.0
+10/04/2017 15:07:22, INFO  , NavigateUrl
+10/04/2017 15:07:22, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script

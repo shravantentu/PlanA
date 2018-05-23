@@ -1,0 +1,27 @@
+09/26/2017 20:39:44, INFO  , searchPStepName : NavigateUrl
+09/26/2017 20:39:44, INFO  , searchPStepNumber : 1.0
+09/26/2017 20:39:44, INFO  , NavigateUrl
+09/26/2017 20:39:44, INFO  , Calling NAVIGATE_URL
+09/26/2017 20:42:03, INFO  , searchPStepName : Sleep
+09/26/2017 20:42:03, INFO  , searchPStepNumber : 2.0
+09/26/2017 20:42:03, INFO  , Sleep
+09/26/2017 20:42:03, INFO  , Task SLEEP - Started
+09/26/2017 20:42:07, INFO  , Task SLEEP - Ended
+09/26/2017 20:42:07, INFO  , searchPStepName : MouseHover
+09/26/2017 20:42:07, INFO  , searchPStepNumber : 3.0
+09/26/2017 20:42:07, INFO  , MouseHover
+09/26/2017 20:42:07, INFO  , Task MOUSE_HOVER - Started
+09/26/2017 20:42:07, INFO  , Task MOUSE_HOVER - Ended
+09/26/2017 20:42:07, INFO  , searchPStepName : Sleep
+09/26/2017 20:42:07, INFO  , searchPStepNumber : 4.0
+09/26/2017 20:42:07, INFO  , Sleep
+09/26/2017 20:42:07, INFO  , Task SLEEP - Started
+09/26/2017 20:42:09, INFO  , Task SLEEP - Ended
+09/26/2017 20:42:09, INFO  , searchPStepName : ClickLink
+09/26/2017 20:42:09, INFO  , searchPStepNumber : 5.0
+09/26/2017 20:42:09, INFO  , ClickLink
+09/26/2017 20:42:09, INFO  , Task CLICK_LINK - Started
+09/26/2017 20:43:17, INFO  , searchPStepName : ClickLinkXpath
+09/26/2017 20:43:17, INFO  , searchPStepNumber : 1.0
+09/26/2017 20:43:17, INFO  , ClickLinkXpath
+09/26/2017 20:43:17, INFO  , Task CLICK_LINK - Started

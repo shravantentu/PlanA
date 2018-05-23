@@ -1,0 +1,8 @@
+10/06/2017 16:27:54, INFO  , searchPStepName : NavigateUrl
+10/06/2017 16:27:54, INFO  , searchPStepNumber : 1.0
+10/06/2017 16:27:54, INFO  , NavigateUrl
+10/06/2017 16:27:54, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+10/06/2017 16:31:56, INFO  , searchPStepName : SelectSite
+10/06/2017 16:31:56, INFO  , searchPStepNumber : 3
+10/06/2017 16:31:56, INFO  , SelectSite
+10/06/2017 16:31:56, INFO  , Task SelectSite - Started

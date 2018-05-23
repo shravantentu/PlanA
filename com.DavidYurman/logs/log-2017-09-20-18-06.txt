@@ -1,0 +1,8 @@
+09/20/2017 18:06:47, INFO  , searchPStepName : NavigateUrl
+09/20/2017 18:06:47, INFO  , searchPStepNumber : 1.0
+09/20/2017 18:06:47, INFO  , NavigateUrl
+09/20/2017 18:06:47, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/20/2017 18:07:11, INFO  , searchPStepName : ClickLinkXpath
+09/20/2017 18:07:11, INFO  , searchPStepNumber : 3.0
+09/20/2017 18:07:11, INFO  , ClickLinkXpath
+09/20/2017 18:07:11, INFO  , Task CLICK_LINK - Started

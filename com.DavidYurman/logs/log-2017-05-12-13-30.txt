@@ -1,0 +1,109 @@
+05/12/2017 13:30:33, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:30:33, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:30:33, INFO  , NavigateUrl
+05/12/2017 13:30:33, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:30:50, INFO  , searchPStepName : ClickLinkXpath
+05/12/2017 13:30:50, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:30:50, INFO  , ClickLinkXpath
+05/12/2017 13:30:50, INFO  , Task CLICK_LINK - Started
+05/12/2017 13:30:54, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:30:54, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:30:54, INFO  , NavigateUrl
+05/12/2017 13:30:54, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:31:08, INFO  , searchPStepName : MouseHover
+05/12/2017 13:31:08, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:31:08, INFO  , MouseHover
+05/12/2017 13:31:08, INFO  , Task MOUSE_HOVER - Started
+05/12/2017 13:31:11, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:31:11, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:31:11, INFO  , NavigateUrl
+05/12/2017 13:31:11, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:31:25, INFO  , searchPStepName : ClickLinkXpath
+05/12/2017 13:31:25, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:31:25, INFO  , ClickLinkXpath
+05/12/2017 13:31:25, INFO  , Task CLICK_LINK - Started
+05/12/2017 13:31:29, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:31:29, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:31:29, INFO  , NavigateUrl
+05/12/2017 13:31:29, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:31:43, INFO  , searchPStepName : ClickLinkXpath
+05/12/2017 13:31:43, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:31:43, INFO  , ClickLinkXpath
+05/12/2017 13:31:43, INFO  , Task CLICK_LINK - Started
+05/12/2017 13:31:46, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:31:46, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:31:46, INFO  , NavigateUrl
+05/12/2017 13:31:46, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:32:01, INFO  , searchPStepName : ClickLinkXpath
+05/12/2017 13:32:01, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:32:01, INFO  , ClickLinkXpath
+05/12/2017 13:32:01, INFO  , Task CLICK_LINK - Started
+05/12/2017 13:32:04, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:32:04, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:32:04, INFO  , NavigateUrl
+05/12/2017 13:32:04, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:32:18, INFO  , searchPStepName : ClickLink
+05/12/2017 13:32:18, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:32:18, INFO  , ClickLink
+05/12/2017 13:32:18, INFO  , Task CLICK_LINK - Started
+05/12/2017 13:32:21, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:32:21, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:32:21, INFO  , NavigateUrl
+05/12/2017 13:32:21, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:32:36, INFO  , searchPStepName : ClickLinkXpath
+05/12/2017 13:32:36, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:32:36, INFO  , ClickLinkXpath
+05/12/2017 13:32:36, INFO  , Task CLICK_LINK - Started
+05/12/2017 13:32:40, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:32:40, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:32:40, INFO  , NavigateUrl
+05/12/2017 13:32:40, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:32:54, INFO  , searchPStepName : ClickLinkXpath
+05/12/2017 13:32:54, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:32:54, INFO  , ClickLinkXpath
+05/12/2017 13:32:54, INFO  , Task CLICK_LINK - Started
+05/12/2017 13:32:58, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:32:58, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:32:58, INFO  , NavigateUrl
+05/12/2017 13:32:58, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:33:12, INFO  , searchPStepName : MouseHover
+05/12/2017 13:33:12, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:33:12, INFO  , MouseHover
+05/12/2017 13:33:12, INFO  , Task MOUSE_HOVER - Started
+05/12/2017 13:33:16, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:33:16, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:33:16, INFO  , NavigateUrl
+05/12/2017 13:33:16, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:33:31, INFO  , searchPStepName : ClickLinkXpath
+05/12/2017 13:33:31, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:33:31, INFO  , ClickLinkXpath
+05/12/2017 13:33:31, INFO  , Task CLICK_LINK - Started
+05/12/2017 13:33:34, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:33:34, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:33:34, INFO  , NavigateUrl
+05/12/2017 13:33:34, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:33:48, INFO  , searchPStepName : ClickLink
+05/12/2017 13:33:48, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:33:48, INFO  , ClickLink
+05/12/2017 13:33:48, INFO  , Task CLICK_LINK - Started
+05/12/2017 13:33:52, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:33:52, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:33:52, INFO  , NavigateUrl
+05/12/2017 13:33:52, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:34:06, INFO  , searchPStepName : Sleep
+05/12/2017 13:34:06, INFO  , searchPStepNumber : 2.0
+05/12/2017 13:34:06, INFO  , Sleep
+05/12/2017 13:34:06, INFO  , Task SLEEP - Started
+05/12/2017 13:34:13, INFO  , Task SLEEP - Ended
+05/12/2017 13:34:13, INFO  , searchPStepName : ClickLink
+05/12/2017 13:34:13, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:34:13, INFO  , ClickLink
+05/12/2017 13:34:13, INFO  , Task CLICK_LINK - Started
+05/12/2017 13:34:16, INFO  , searchPStepName : NavigateUrl
+05/12/2017 13:34:16, INFO  , searchPStepNumber : 1.0
+05/12/2017 13:34:16, INFO  , NavigateUrl
+05/12/2017 13:34:16, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/12/2017 13:34:31, INFO  , searchPStepName : ClickLinkXpath
+05/12/2017 13:34:31, INFO  , searchPStepNumber : 3.0
+05/12/2017 13:34:31, INFO  , ClickLinkXpath
+05/12/2017 13:34:31, INFO  , Task CLICK_LINK - Started

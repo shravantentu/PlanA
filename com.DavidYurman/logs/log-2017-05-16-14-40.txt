@@ -1,0 +1,24 @@
+05/16/2017 14:40:37, INFO  , searchPStepName : NavigateUrl
+05/16/2017 14:40:37, INFO  , searchPStepNumber : 1.0
+05/16/2017 14:40:37, INFO  , NavigateUrl
+05/16/2017 14:40:37, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/16/2017 14:41:31, INFO  , searchPStepName : ClickLinkXpath
+05/16/2017 14:41:31, INFO  , searchPStepNumber : 3.0
+05/16/2017 14:41:31, INFO  , ClickLinkXpath
+05/16/2017 14:41:31, INFO  , Task CLICK_LINK - Started
+05/16/2017 14:41:39, INFO  , searchPStepName : NavigateUrl
+05/16/2017 14:41:39, INFO  , searchPStepNumber : 1.0
+05/16/2017 14:41:39, INFO  , NavigateUrl
+05/16/2017 14:41:39, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/16/2017 14:42:16, INFO  , searchPStepName : ClickLinkXpath
+05/16/2017 14:42:16, INFO  , searchPStepNumber : 3.0
+05/16/2017 14:42:16, INFO  , ClickLinkXpath
+05/16/2017 14:42:16, INFO  , Task CLICK_LINK - Started
+05/16/2017 14:42:22, INFO  , searchPStepName : NavigateUrl
+05/16/2017 14:42:22, INFO  , searchPStepNumber : 1.0
+05/16/2017 14:42:22, INFO  , NavigateUrl
+05/16/2017 14:42:22, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/16/2017 14:42:53, INFO  , searchPStepName : ClickLink
+05/16/2017 14:42:53, INFO  , searchPStepNumber : 3.0
+05/16/2017 14:42:53, INFO  , ClickLink
+05/16/2017 14:42:53, INFO  , Task CLICK_LINK - Started

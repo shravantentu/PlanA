@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+  <appender name="console" class="org.apache.log4j.ConsoleAppender"> 
+    <param name="Target" value="System.out"/> 
+    <layout class="org.apache.log4j.PatternLayout"> 
+      <param name="ConversionPattern" value="%-5p %c{1}, %m%n"/> 
+    </layout> 
+  </appender> 
+
+  <appender name="ResultsFile" class="logging.NewResultForEachRunFileAppender"> 
+    <param name="File" value="logs\\results"/> 
+	<param name="Threshold" value="ERROR" />
+    <layout class="org.apache.log4j.PatternLayout"> 
+      <param name="ConversionPattern" value="%d{MM/dd/yyyy HH:mm:ss}, %m%n"/> 
+    </layout> 
+  </appender> 
+
+  <appender name="LogFile" class="logging.NewLogForEachRunFileAppender"> 
+    <param name="File" value="logs\\log"/> 
+	<param name="Threshold" value="ALL" />
+    <layout class="org.apache.log4j.PatternLayout"> 
+     <param name="ConversionPattern" value="%d{MM/dd/yyyy HH:mm:ss}, %-5p %c{1}, %m%n"/> 
+    </layout> 
+    </appender> 
+    
+  <logger name="">
+	<level value="ALL"/>
+    <appender-ref ref="LogFile" />
+    <appender-ref ref="console" />
+  </logger>
+  <root>
+	<priority value="ERROR"/>
+    	<appender-ref ref="ResultsFile" />
+  </root>
+
+</log4j:configuration>

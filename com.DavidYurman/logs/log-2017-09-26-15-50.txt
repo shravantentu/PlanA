@@ -1,0 +1,44 @@
+09/26/2017 15:50:36, INFO  , searchPStepName : NavigateUrl
+09/26/2017 15:50:36, INFO  , searchPStepNumber : 1.0
+09/26/2017 15:50:36, INFO  , NavigateUrl
+09/26/2017 15:50:36, INFO  , Calling NAVIGATE_URL
+09/26/2017 15:52:02, INFO  , searchPStepName : Sleep
+09/26/2017 15:52:02, INFO  , searchPStepNumber : 2.0
+09/26/2017 15:52:02, INFO  , Sleep
+09/26/2017 15:52:02, INFO  , Task SLEEP - Started
+09/26/2017 15:52:07, INFO  , Task SLEEP - Ended
+09/26/2017 15:52:07, INFO  , searchPStepName : EnterText
+09/26/2017 15:52:07, INFO  , searchPStepNumber : 3.0
+09/26/2017 15:52:07, INFO  , EnterText
+09/26/2017 15:52:07, INFO  , in case ENTER_TEXT
+09/26/2017 15:52:08, INFO  , searchPStepName : EnterText
+09/26/2017 15:52:08, INFO  , searchPStepNumber : 4.0
+09/26/2017 15:52:08, INFO  , EnterText
+09/26/2017 15:52:08, INFO  , in case ENTER_TEXT
+09/26/2017 15:52:08, INFO  , searchPStepName : ClickCheckBox
+09/26/2017 15:52:08, INFO  , searchPStepNumber : 5.0
+09/26/2017 15:52:08, INFO  , ClickCheckBox
+09/26/2017 15:52:08, INFO  , in case CLICK CHECK BOX
+09/26/2017 15:52:09, INFO  , searchPStepName : Sleep
+09/26/2017 15:52:09, INFO  , searchPStepNumber : 7.0
+09/26/2017 15:52:09, INFO  , Sleep
+09/26/2017 15:52:09, INFO  , Task SLEEP - Started
+09/26/2017 15:52:10, INFO  , Task SLEEP - Ended
+09/26/2017 15:52:10, INFO  , searchPStepName : ClickIcon
+09/26/2017 15:52:10, INFO  , searchPStepNumber : 6.0
+09/26/2017 15:52:10, INFO  , ClickIcon
+09/26/2017 15:52:10, INFO  , Calling CLICK_ICON
+09/26/2017 15:52:37, INFO  , searchPStepName : Sleep
+09/26/2017 15:52:37, INFO  , searchPStepNumber : 7.0
+09/26/2017 15:52:37, INFO  , Sleep
+09/26/2017 15:52:37, INFO  , Task SLEEP - Started
+09/26/2017 15:52:57, INFO  , Task SLEEP - Ended
+09/26/2017 15:52:57, INFO  , searchPStepName : Sleep
+09/26/2017 15:52:57, INFO  , searchPStepNumber : 21.0
+09/26/2017 15:52:57, INFO  , Sleep
+09/26/2017 15:52:57, INFO  , Task SLEEP - Started
+09/26/2017 15:53:02, INFO  , Task SLEEP - Ended
+09/26/2017 15:53:02, INFO  , searchPStepName : NavigateUrlnTab
+09/26/2017 15:53:02, INFO  , searchPStepNumber : 23.0
+09/26/2017 15:53:02, INFO  , NavigateUrlnTab
+09/26/2017 15:53:02, INFO  , Calling NAVIGATE_URL in new Tab

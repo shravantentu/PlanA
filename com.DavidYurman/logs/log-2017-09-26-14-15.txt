@@ -1,0 +1,60 @@
+09/26/2017 14:15:50, INFO  , searchPStepName : NavigateUrl
+09/26/2017 14:15:50, INFO  , searchPStepNumber : 1.0
+09/26/2017 14:15:50, INFO  , NavigateUrl
+09/26/2017 14:15:50, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/26/2017 14:16:32, INFO  , searchPStepName : Sleep
+09/26/2017 14:16:32, INFO  , searchPStepNumber : 2.0
+09/26/2017 14:16:32, INFO  , Sleep
+09/26/2017 14:16:32, INFO  , Task SLEEP - Started
+09/26/2017 14:16:37, INFO  , Task SLEEP - Ended
+09/26/2017 14:16:37, INFO  , searchPStepName : EnterText
+09/26/2017 14:16:37, INFO  , searchPStepNumber : 3.0
+09/26/2017 14:16:37, INFO  , EnterText
+09/26/2017 14:16:37, INFO  , in case ENTER_TEXT
+09/26/2017 14:16:38, INFO  , searchPStepName : EnterText
+09/26/2017 14:16:38, INFO  , searchPStepNumber : 4.0
+09/26/2017 14:16:38, INFO  , EnterText
+09/26/2017 14:16:38, INFO  , in case ENTER_TEXT
+09/26/2017 14:16:38, INFO  , searchPStepName : Sleep
+09/26/2017 14:16:38, INFO  , searchPStepNumber : 5.0
+09/26/2017 14:16:38, INFO  , Sleep
+09/26/2017 14:16:38, INFO  , Task SLEEP - Started
+09/26/2017 14:16:38, INFO  , Task SLEEP - Ended
+09/26/2017 14:16:38, INFO  , searchPStepName : ClickCheckBox
+09/26/2017 14:16:38, INFO  , searchPStepNumber : 6.0
+09/26/2017 14:16:38, INFO  , ClickCheckBox
+09/26/2017 14:16:38, INFO  , in case CLICK CHECK BOX
+09/26/2017 14:16:38, INFO  , searchPStepName : Sleep
+09/26/2017 14:16:38, INFO  , searchPStepNumber : 8.0
+09/26/2017 14:16:38, INFO  , Sleep
+09/26/2017 14:16:38, INFO  , Task SLEEP - Started
+09/26/2017 14:16:39, INFO  , Task SLEEP - Ended
+09/26/2017 14:16:39, INFO  , searchPStepName : ClickButton
+09/26/2017 14:16:39, INFO  , searchPStepNumber : 7.0
+09/26/2017 14:16:39, INFO  , ClickButton
+09/26/2017 14:16:39, INFO  , Task CLICK_BUTTON - Started
+09/26/2017 14:18:17, INFO  , searchPStepName : NavigateUrl
+09/26/2017 14:18:17, INFO  , searchPStepNumber : 1.0
+09/26/2017 14:18:17, INFO  , NavigateUrl
+09/26/2017 14:18:17, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/26/2017 14:18:58, INFO  , searchPStepName : Sleep
+09/26/2017 14:18:58, INFO  , searchPStepNumber : 2.0
+09/26/2017 14:18:58, INFO  , Sleep
+09/26/2017 14:18:58, INFO  , Task SLEEP - Started
+09/26/2017 14:19:06, INFO  , Task SLEEP - Ended
+09/26/2017 14:19:06, INFO  , searchPStepName : EnterText
+09/26/2017 14:19:06, INFO  , searchPStepNumber : 8.0
+09/26/2017 14:19:06, INFO  , EnterText
+09/26/2017 14:19:06, INFO  , in case ENTER_TEXT
+09/26/2017 14:19:07, INFO  , searchPStepName : EnterText
+09/26/2017 14:19:07, INFO  , searchPStepNumber : 9.0
+09/26/2017 14:19:07, INFO  , EnterText
+09/26/2017 14:19:07, INFO  , in case ENTER_TEXT
+09/26/2017 14:19:08, INFO  , searchPStepName : ClickCheckBox
+09/26/2017 14:19:08, INFO  , searchPStepNumber : 10.0
+09/26/2017 14:19:08, INFO  , ClickCheckBox
+09/26/2017 14:19:08, INFO  , in case CLICK CHECK BOX
+09/26/2017 14:19:08, INFO  , searchPStepName : ClickButton
+09/26/2017 14:19:08, INFO  , searchPStepNumber : 11.0
+09/26/2017 14:19:08, INFO  , ClickButton
+09/26/2017 14:19:08, INFO  , Task CLICK_BUTTON - Started

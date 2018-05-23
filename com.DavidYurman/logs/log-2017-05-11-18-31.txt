@@ -1,0 +1,54 @@
+05/11/2017 18:31:26, INFO  , searchPStepName : NavigateUrl
+05/11/2017 18:31:26, INFO  , searchPStepNumber : 1.0
+05/11/2017 18:31:26, INFO  , NavigateUrl
+05/11/2017 18:31:26, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/11/2017 18:31:36, INFO  , searchPStepName : NavigateUrl
+05/11/2017 18:31:36, INFO  , searchPStepNumber : 1.0
+05/11/2017 18:31:36, INFO  , NavigateUrl
+05/11/2017 18:31:36, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+05/11/2017 18:32:51, INFO  , searchPStepName : Sleep
+05/11/2017 18:32:51, INFO  , searchPStepNumber : 2.0
+05/11/2017 18:32:51, INFO  , Sleep
+05/11/2017 18:32:51, INFO  , Task SLEEP - Started
+05/11/2017 18:32:53, INFO  , Task SLEEP - Ended
+05/11/2017 18:32:53, INFO  , searchPStepName : MouseHover
+05/11/2017 18:32:53, INFO  , searchPStepNumber : 3.0
+05/11/2017 18:32:53, INFO  , MouseHover
+05/11/2017 18:32:53, INFO  , Task MOUSE_HOVER - Started
+05/11/2017 18:32:54, INFO  , Task MOUSE_HOVER - Ended
+05/11/2017 18:32:54, INFO  , searchPStepName : Sleep
+05/11/2017 18:32:54, INFO  , searchPStepNumber : 4.0
+05/11/2017 18:32:54, INFO  , Sleep
+05/11/2017 18:32:54, INFO  , Task SLEEP - Started
+05/11/2017 18:32:56, INFO  , Task SLEEP - Ended
+05/11/2017 18:32:56, INFO  , searchPStepName : ClickLink
+05/11/2017 18:32:56, INFO  , searchPStepNumber : 5.0
+05/11/2017 18:32:56, INFO  , ClickLink
+05/11/2017 18:32:56, INFO  , Task CLICK_LINK - Started
+05/11/2017 18:33:02, INFO  , searchPStepName : ClickLinkXpath
+05/11/2017 18:33:02, INFO  , searchPStepNumber : 1.0
+05/11/2017 18:33:02, INFO  , ClickLinkXpath
+05/11/2017 18:33:02, INFO  , Task CLICK_LINK - Started
+05/11/2017 18:33:13, INFO  , searchPStepName : Sleep
+05/11/2017 18:33:13, INFO  , searchPStepNumber : 2.0
+05/11/2017 18:33:13, INFO  , Sleep
+05/11/2017 18:33:13, INFO  , Task SLEEP - Started
+05/11/2017 18:33:15, INFO  , Task SLEEP - Ended
+05/11/2017 18:33:15, INFO  , searchPStepName : MouseHover
+05/11/2017 18:33:15, INFO  , searchPStepNumber : 3.0
+05/11/2017 18:33:15, INFO  , MouseHover
+05/11/2017 18:33:15, INFO  , Task MOUSE_HOVER - Started
+05/11/2017 18:33:15, INFO  , Task MOUSE_HOVER - Ended
+05/11/2017 18:33:15, INFO  , searchPStepName : Sleep
+05/11/2017 18:33:15, INFO  , searchPStepNumber : 4.0
+05/11/2017 18:33:15, INFO  , Sleep
+05/11/2017 18:33:15, INFO  , Task SLEEP - Started
+05/11/2017 18:33:17, INFO  , Task SLEEP - Ended
+05/11/2017 18:33:17, INFO  , searchPStepName : ClickLink
+05/11/2017 18:33:17, INFO  , searchPStepNumber : 5.0
+05/11/2017 18:33:17, INFO  , ClickLink
+05/11/2017 18:33:17, INFO  , Task CLICK_LINK - Started
+05/11/2017 18:33:22, INFO  , searchPStepName : ClickLinkXpath
+05/11/2017 18:33:22, INFO  , searchPStepNumber : 1.0
+05/11/2017 18:33:22, INFO  , ClickLinkXpath
+05/11/2017 18:33:22, INFO  , Task CLICK_LINK - Started

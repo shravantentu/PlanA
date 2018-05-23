@@ -1,0 +1,80 @@
+10/06/2017 15:48:23, INFO  , searchPStepName : NavigateUrl
+10/06/2017 15:48:23, INFO  , searchPStepNumber : 1.0
+10/06/2017 15:48:23, INFO  , NavigateUrl
+10/06/2017 15:48:23, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+10/06/2017 15:50:38, INFO  , searchPStepName : SelectSite
+10/06/2017 15:50:38, INFO  , searchPStepNumber : 3
+10/06/2017 15:50:38, INFO  , SelectSite
+10/06/2017 15:50:38, INFO  , Task SelectSite - Started
+10/06/2017 15:50:40, INFO  , Task SelectSite - Ended
+10/06/2017 15:50:40, INFO  , searchPStepName : ClickLinkXpath
+10/06/2017 15:50:40, INFO  , searchPStepNumber : 3.0
+10/06/2017 15:50:40, INFO  , ClickLinkXpath
+10/06/2017 15:50:40, INFO  , Task CLICK_LINK - Started
+10/06/2017 15:51:01, INFO  , Task CLICK_LINK - Ended
+10/06/2017 15:51:01, INFO  , searchPStepName : Sleep
+10/06/2017 15:51:01, INFO  , searchPStepNumber : 4.0
+10/06/2017 15:51:01, INFO  , Sleep
+10/06/2017 15:51:01, INFO  , Task SLEEP - Started
+10/06/2017 15:51:01, INFO  , Task SLEEP - Ended
+10/06/2017 15:51:01, INFO  , searchPStepName : EnterText
+10/06/2017 15:51:01, INFO  , searchPStepNumber : 5.0
+10/06/2017 15:51:01, INFO  , EnterText
+10/06/2017 15:51:01, INFO  , in case ENTER_TEXT
+10/06/2017 15:51:02, INFO  , searchPStepName : EnterText
+10/06/2017 15:51:02, INFO  , searchPStepNumber : 6.0
+10/06/2017 15:51:02, INFO  , EnterText
+10/06/2017 15:51:02, INFO  , in case ENTER_TEXT
+10/06/2017 15:51:03, INFO  , searchPStepName : ClickIcon
+10/06/2017 15:51:03, INFO  , searchPStepNumber : 7.0
+10/06/2017 15:51:03, INFO  , ClickIcon
+10/06/2017 15:51:03, INFO  , Calling CLICK_ICON Task from AccessingQuestionsonFAQPage TestCase Script
+10/06/2017 15:51:31, INFO  , searchPStepName : Sleep
+10/06/2017 15:51:31, INFO  , searchPStepNumber : 8.0
+10/06/2017 15:51:31, INFO  , Sleep
+10/06/2017 15:51:31, INFO  , Task SLEEP - Started
+10/06/2017 15:51:31, INFO  , Task SLEEP - Ended
+10/06/2017 15:51:31, INFO  , searchPStepName : MouseHover
+10/06/2017 15:51:31, INFO  , searchPStepNumber : 10.0
+10/06/2017 15:51:31, INFO  , MouseHover
+10/06/2017 15:51:31, INFO  , Task MOUSE_HOVER - Started
+10/06/2017 15:51:32, INFO  , Task MOUSE_HOVER - Ended
+10/06/2017 15:51:32, INFO  , searchPStepName : Sleep
+10/06/2017 15:51:32, INFO  , searchPStepNumber : 11.0
+10/06/2017 15:51:32, INFO  , Sleep
+10/06/2017 15:51:32, INFO  , Task SLEEP - Started
+10/06/2017 15:51:32, INFO  , Task SLEEP - Ended
+10/06/2017 15:51:32, INFO  , searchPStepName : ClickLink
+10/06/2017 15:51:32, INFO  , searchPStepNumber : 12.0
+10/06/2017 15:51:32, INFO  , ClickLink
+10/06/2017 15:51:32, INFO  , Task CLICK_LINK - Started
+10/06/2017 15:51:44, INFO  , Task CLICK_LINK - Ended
+10/06/2017 15:51:44, INFO  , searchPStepName : Sleep
+10/06/2017 15:51:44, INFO  , searchPStepNumber : 15.0
+10/06/2017 15:51:44, INFO  , Sleep
+10/06/2017 15:51:44, INFO  , Task SLEEP - Started
+10/06/2017 15:51:44, INFO  , Task SLEEP - Ended
+10/06/2017 15:51:44, INFO  , searchPStepName : ClickLinkXpath
+10/06/2017 15:51:44, INFO  , searchPStepNumber : 16.0
+10/06/2017 15:51:44, INFO  , ClickLinkXpath
+10/06/2017 15:51:44, INFO  , Task CLICK_LINK - Started
+10/06/2017 16:07:36, INFO  , Task CLICK_LINK - Ended
+10/06/2017 16:07:36, INFO  , searchPStepName : Sleep
+10/06/2017 16:07:36, INFO  , searchPStepNumber : 17.0
+10/06/2017 16:07:36, INFO  , Sleep
+10/06/2017 16:07:36, INFO  , Task SLEEP - Started
+10/06/2017 16:07:36, INFO  , Task SLEEP - Ended
+10/06/2017 16:07:36, INFO  , searchPStepName : ClickLink
+10/06/2017 16:07:36, INFO  , searchPStepNumber : 18.0
+10/06/2017 16:07:36, INFO  , ClickLink
+10/06/2017 16:07:36, INFO  , Task CLICK_LINK - Started
+10/06/2017 16:07:36, INFO  , Task CLICK_LINK - Ended
+10/06/2017 16:07:36, INFO  , searchPStepName : Sleep
+10/06/2017 16:07:36, INFO  , searchPStepNumber : 19.0
+10/06/2017 16:07:36, INFO  , Sleep
+10/06/2017 16:07:36, INFO  , Task SLEEP - Started
+10/06/2017 16:07:36, INFO  , Task SLEEP - Ended
+10/06/2017 16:07:36, INFO  , searchPStepName : SelectDropdownValue
+10/06/2017 16:07:36, INFO  , searchPStepNumber : 20.0
+10/06/2017 16:07:36, INFO  , SelectDropdownValue
+10/06/2017 16:07:36, INFO  , Calling SELECT_DROP_DOWN_VALUE Task from AccessCMS TestCase Script

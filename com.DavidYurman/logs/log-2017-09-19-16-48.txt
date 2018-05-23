@@ -1,0 +1,8 @@
+09/19/2017 16:49:00, INFO  , searchPStepName : NavigateUrl
+09/19/2017 16:49:00, INFO  , searchPStepNumber : 1.0
+09/19/2017 16:49:00, INFO  , NavigateUrl
+09/19/2017 16:49:00, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/19/2017 16:49:44, INFO  , searchPStepName : ClosePopUp
+09/19/2017 16:49:44, INFO  , searchPStepNumber : 3
+09/19/2017 16:49:44, INFO  , ClosePopUp
+09/19/2017 16:49:44, INFO  , Task Close Popups - Started

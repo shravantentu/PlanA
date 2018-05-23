@@ -1,0 +1,43 @@
+09/01/2017 16:30:26, INFO  , searchPStepName : NavigateUrl
+09/01/2017 16:30:26, INFO  , searchPStepNumber : 1.0
+09/01/2017 16:30:26, INFO  , NavigateUrl
+09/01/2017 16:30:26, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/01/2017 16:30:37, INFO  , searchPStepName : NavigateUrl
+09/01/2017 16:30:37, INFO  , searchPStepNumber : 1.0
+09/01/2017 16:30:37, INFO  , NavigateUrl
+09/01/2017 16:30:37, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/01/2017 16:31:26, INFO  , searchPStepName : Sleep
+09/01/2017 16:31:26, INFO  , searchPStepNumber : 2.0
+09/01/2017 16:31:26, INFO  , Sleep
+09/01/2017 16:31:26, INFO  , Task SLEEP - Started
+09/01/2017 16:31:34, INFO  , Task SLEEP - Ended
+09/01/2017 16:31:34, INFO  , searchPStepName : MouseHover
+09/01/2017 16:31:34, INFO  , searchPStepNumber : 3.0
+09/01/2017 16:31:34, INFO  , MouseHover
+09/01/2017 16:31:34, INFO  , Task MOUSE_HOVER - Started
+09/01/2017 16:31:41, INFO  , searchPStepName : NavigateUrl
+09/01/2017 16:31:41, INFO  , searchPStepNumber : 1.0
+09/01/2017 16:31:41, INFO  , NavigateUrl
+09/01/2017 16:31:41, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/01/2017 16:31:52, INFO  , searchPStepName : Sleep
+09/01/2017 16:31:52, INFO  , searchPStepNumber : 2.0
+09/01/2017 16:31:52, INFO  , Sleep
+09/01/2017 16:31:52, INFO  , Task SLEEP - Started
+09/01/2017 16:32:00, INFO  , Task SLEEP - Ended
+09/01/2017 16:32:00, INFO  , searchPStepName : MouseHover
+09/01/2017 16:32:00, INFO  , searchPStepNumber : 3.0
+09/01/2017 16:32:00, INFO  , MouseHover
+09/01/2017 16:32:00, INFO  , Task MOUSE_HOVER - Started
+09/01/2017 16:32:05, INFO  , searchPStepName : NavigateUrl
+09/01/2017 16:32:05, INFO  , searchPStepNumber : 1.0
+09/01/2017 16:32:05, INFO  , NavigateUrl
+09/01/2017 16:32:05, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/01/2017 16:32:16, INFO  , searchPStepName : Sleep
+09/01/2017 16:32:16, INFO  , searchPStepNumber : 2.0
+09/01/2017 16:32:16, INFO  , Sleep
+09/01/2017 16:32:16, INFO  , Task SLEEP - Started
+09/01/2017 16:32:24, INFO  , Task SLEEP - Ended
+09/01/2017 16:32:24, INFO  , searchPStepName : MouseHover
+09/01/2017 16:32:24, INFO  , searchPStepNumber : 3.0
+09/01/2017 16:32:24, INFO  , MouseHover
+09/01/2017 16:32:24, INFO  , Task MOUSE_HOVER - Started

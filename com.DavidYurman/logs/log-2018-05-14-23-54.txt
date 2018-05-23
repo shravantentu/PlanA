@@ -1,0 +1,8 @@
+05/14/2018 23:54:58, INFO  , searchPStepName : NavigateUrl
+05/14/2018 23:54:58, INFO  , searchPStepNumber : 1.0
+05/14/2018 23:54:58, INFO  , NavigateUrl
+05/14/2018 23:54:58, INFO  , Calling NAVIGATE_URL
+05/14/2018 23:55:16, INFO  , searchPStepName : SelectSite
+05/14/2018 23:55:16, INFO  , searchPStepNumber : 3
+05/14/2018 23:55:16, INFO  , SelectSite
+05/14/2018 23:55:16, INFO  , Task SelectSite - Started

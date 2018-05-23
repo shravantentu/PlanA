@@ -1,0 +1,23 @@
+10/06/2017 15:08:33, INFO  , searchPStepName : NavigateUrl
+10/06/2017 15:08:33, INFO  , searchPStepNumber : 1.0
+10/06/2017 15:08:33, INFO  , NavigateUrl
+10/06/2017 15:08:33, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+10/06/2017 15:09:02, INFO  , searchPStepName : SelectSite
+10/06/2017 15:09:02, INFO  , searchPStepNumber : 3
+10/06/2017 15:09:02, INFO  , SelectSite
+10/06/2017 15:09:02, INFO  , Task SelectSite - Started
+10/06/2017 15:09:04, INFO  , Task SelectSite - Ended
+10/06/2017 15:09:04, INFO  , searchPStepName : ClickLinkXpath
+10/06/2017 15:09:04, INFO  , searchPStepNumber : 3.0
+10/06/2017 15:09:04, INFO  , ClickLinkXpath
+10/06/2017 15:09:04, INFO  , Task CLICK_LINK - Started
+10/06/2017 15:09:09, INFO  , Task CLICK_LINK - Ended
+10/06/2017 15:09:09, INFO  , searchPStepName : Sleep
+10/06/2017 15:09:09, INFO  , searchPStepNumber : 4.0
+10/06/2017 15:09:09, INFO  , Sleep
+10/06/2017 15:09:09, INFO  , Task SLEEP - Started
+10/06/2017 15:09:09, INFO  , Task SLEEP - Ended
+10/06/2017 15:09:09, INFO  , searchPStepName : EnterText
+10/06/2017 15:09:09, INFO  , searchPStepNumber : 5.0
+10/06/2017 15:09:09, INFO  , EnterText
+10/06/2017 15:09:09, INFO  , in case ENTER_TEXT

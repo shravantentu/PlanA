@@ -1,0 +1,46 @@
+09/18/2017 18:06:55, INFO  , searchPStepName : NavigateUrl
+09/18/2017 18:06:55, INFO  , searchPStepNumber : 1.0
+09/18/2017 18:06:55, INFO  , NavigateUrl
+09/18/2017 18:06:55, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/18/2017 18:08:20, INFO  , searchPStepName : ClickLinkXpath
+09/18/2017 18:08:20, INFO  , searchPStepNumber : 3.0
+09/18/2017 18:08:20, INFO  , ClickLinkXpath
+09/18/2017 18:08:20, INFO  , Task CLICK_LINK - Started
+09/18/2017 18:08:37, INFO  , Task CLICK_LINK - Ended
+09/18/2017 18:08:37, INFO  , searchPStepName : Sleep
+09/18/2017 18:08:37, INFO  , searchPStepNumber : 4.0
+09/18/2017 18:08:37, INFO  , Sleep
+09/18/2017 18:08:37, INFO  , Task SLEEP - Started
+09/18/2017 18:08:40, INFO  , Task SLEEP - Ended
+09/18/2017 18:08:40, INFO  , searchPStepName : EnterText
+09/18/2017 18:08:40, INFO  , searchPStepNumber : 5.0
+09/18/2017 18:08:40, INFO  , EnterText
+09/18/2017 18:08:40, INFO  , in case ENTER_TEXT
+09/18/2017 18:08:41, INFO  , searchPStepName : EnterText
+09/18/2017 18:08:41, INFO  , searchPStepNumber : 6.0
+09/18/2017 18:08:41, INFO  , EnterText
+09/18/2017 18:08:41, INFO  , in case ENTER_TEXT
+09/18/2017 18:08:41, INFO  , searchPStepName : ClickButton
+09/18/2017 18:08:41, INFO  , searchPStepNumber : 7.0
+09/18/2017 18:08:41, INFO  , ClickButton
+09/18/2017 18:08:41, INFO  , Task CLICK_BUTTON - Started
+09/18/2017 18:08:51, INFO  , Task CLICK_BUTTON - Ended
+09/18/2017 18:08:51, INFO  , searchPStepName : Sleep
+09/18/2017 18:08:51, INFO  , searchPStepNumber : 8.0
+09/18/2017 18:08:51, INFO  , Sleep
+09/18/2017 18:08:51, INFO  , Task SLEEP - Started
+09/18/2017 18:08:54, INFO  , Task SLEEP - Ended
+09/18/2017 18:08:54, INFO  , searchPStepName : MouseHover
+09/18/2017 18:08:54, INFO  , searchPStepNumber : 10.0
+09/18/2017 18:08:54, INFO  , MouseHover
+09/18/2017 18:08:54, INFO  , Task MOUSE_HOVER - Started
+09/18/2017 18:08:55, INFO  , Task MOUSE_HOVER - Ended
+09/18/2017 18:08:55, INFO  , searchPStepName : Sleep
+09/18/2017 18:08:55, INFO  , searchPStepNumber : 11.0
+09/18/2017 18:08:55, INFO  , Sleep
+09/18/2017 18:08:55, INFO  , Task SLEEP - Started
+09/18/2017 18:08:56, INFO  , Task SLEEP - Ended
+09/18/2017 18:08:56, INFO  , searchPStepName : ClickLink
+09/18/2017 18:08:56, INFO  , searchPStepNumber : 12.0
+09/18/2017 18:08:56, INFO  , ClickLink
+09/18/2017 18:08:56, INFO  , Task CLICK_LINK - Started

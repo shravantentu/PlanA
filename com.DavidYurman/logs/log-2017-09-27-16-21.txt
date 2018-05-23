@@ -1,0 +1,13 @@
+09/27/2017 16:21:56, INFO  , searchPStepName : NavigateUrl
+09/27/2017 16:21:56, INFO  , searchPStepNumber : 1.0
+09/27/2017 16:21:56, INFO  , NavigateUrl
+09/27/2017 16:21:56, INFO  , Calling NAVIGATE_URL
+09/27/2017 16:22:07, INFO  , searchPStepName : Sleep
+09/27/2017 16:22:07, INFO  , searchPStepNumber : 2.0
+09/27/2017 16:22:07, INFO  , Sleep
+09/27/2017 16:22:07, INFO  , Task SLEEP - Started
+09/27/2017 16:22:11, INFO  , Task SLEEP - Ended
+09/27/2017 16:22:11, INFO  , searchPStepName : EnterText
+09/27/2017 16:22:11, INFO  , searchPStepNumber : 3.0
+09/27/2017 16:22:11, INFO  , EnterText
+09/27/2017 16:22:11, INFO  , in case ENTER_TEXT

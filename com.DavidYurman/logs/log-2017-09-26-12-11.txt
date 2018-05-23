@@ -1,0 +1,39 @@
+09/26/2017 12:11:07, INFO  , searchPStepName : NavigateUrl
+09/26/2017 12:11:07, INFO  , searchPStepNumber : 1.0
+09/26/2017 12:11:07, INFO  , NavigateUrl
+09/26/2017 12:11:07, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/26/2017 12:11:41, INFO  , searchPStepName : Sleep
+09/26/2017 12:11:41, INFO  , searchPStepNumber : 2.0
+09/26/2017 12:11:41, INFO  , Sleep
+09/26/2017 12:11:41, INFO  , Task SLEEP - Started
+09/26/2017 12:11:46, INFO  , Task SLEEP - Ended
+09/26/2017 12:11:46, INFO  , searchPStepName : EnterText
+09/26/2017 12:11:46, INFO  , searchPStepNumber : 3.0
+09/26/2017 12:11:46, INFO  , EnterText
+09/26/2017 12:11:46, INFO  , in case ENTER_TEXT
+09/26/2017 12:12:08, INFO  , searchPStepName : NavigateUrl
+09/26/2017 12:12:08, INFO  , searchPStepNumber : 1.0
+09/26/2017 12:12:08, INFO  , NavigateUrl
+09/26/2017 12:12:08, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/26/2017 12:12:36, INFO  , searchPStepName : Sleep
+09/26/2017 12:12:36, INFO  , searchPStepNumber : 2.0
+09/26/2017 12:12:36, INFO  , Sleep
+09/26/2017 12:12:36, INFO  , Task SLEEP - Started
+09/26/2017 12:12:44, INFO  , Task SLEEP - Ended
+09/26/2017 12:12:44, INFO  , searchPStepName : EnterText
+09/26/2017 12:12:44, INFO  , searchPStepNumber : 8.0
+09/26/2017 12:12:44, INFO  , EnterText
+09/26/2017 12:12:44, INFO  , in case ENTER_TEXT
+09/26/2017 12:13:21, INFO  , searchPStepName : NavigateUrl
+09/26/2017 12:13:21, INFO  , searchPStepNumber : 1.0
+09/26/2017 12:13:21, INFO  , NavigateUrl
+09/26/2017 12:13:21, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+09/26/2017 12:13:50, INFO  , searchPStepName : Sleep
+09/26/2017 12:13:50, INFO  , searchPStepNumber : 2.0
+09/26/2017 12:13:50, INFO  , Sleep
+09/26/2017 12:13:50, INFO  , Task SLEEP - Started
+09/26/2017 12:13:55, INFO  , Task SLEEP - Ended
+09/26/2017 12:13:55, INFO  , searchPStepName : EnterText
+09/26/2017 12:13:55, INFO  , searchPStepNumber : 3.0
+09/26/2017 12:13:55, INFO  , EnterText
+09/26/2017 12:13:55, INFO  , in case ENTER_TEXT

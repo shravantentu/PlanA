@@ -1,0 +1,44 @@
+05/15/2018 00:24:49, INFO  , searchPStepName : NavigateUrl
+05/15/2018 00:24:49, INFO  , searchPStepNumber : 1.0
+05/15/2018 00:24:49, INFO  , NavigateUrl
+05/15/2018 00:24:49, INFO  , Calling NAVIGATE_URL
+05/15/2018 00:24:52, INFO  , searchPStepName : NavigateUrl
+05/15/2018 00:24:52, INFO  , searchPStepNumber : 1.0
+05/15/2018 00:24:52, INFO  , NavigateUrl
+05/15/2018 00:24:52, INFO  , Calling NAVIGATE_URL
+05/15/2018 00:25:14, INFO  , searchPStepName : SelectSite
+05/15/2018 00:25:14, INFO  , searchPStepNumber : 3
+05/15/2018 00:25:14, INFO  , SelectSite
+05/15/2018 00:25:14, INFO  , Task SelectSite - Started
+05/15/2018 00:25:20, INFO  , searchPStepName : SelectSite
+05/15/2018 00:25:20, INFO  , searchPStepNumber : 3
+05/15/2018 00:25:20, INFO  , SelectSite
+05/15/2018 00:25:20, INFO  , Task SelectSite - Started
+05/15/2018 00:26:14, INFO  , Task SelectSite - Ended
+05/15/2018 00:26:14, INFO  , searchPStepName : ClickLinkXpath
+05/15/2018 00:26:14, INFO  , searchPStepNumber : 3.0
+05/15/2018 00:26:14, INFO  , ClickLinkXpath
+05/15/2018 00:26:14, INFO  , Task CLICK_LINK - Started
+05/15/2018 00:26:21, INFO  , Task SelectSite - Ended
+05/15/2018 00:26:21, INFO  , searchPStepName : ClickLinkXpath
+05/15/2018 00:26:21, INFO  , searchPStepNumber : 3.0
+05/15/2018 00:26:21, INFO  , ClickLinkXpath
+05/15/2018 00:26:21, INFO  , Task CLICK_LINK - Started
+05/15/2018 00:28:42, INFO  , searchPStepName : Sleep
+05/15/2018 00:28:42, INFO  , searchPStepNumber : 10.0
+05/15/2018 00:28:42, INFO  , Sleep
+05/15/2018 00:28:42, INFO  , Task SLEEP - Started
+05/15/2018 00:28:43, INFO  , Task SLEEP - Ended
+05/15/2018 00:28:43, INFO  , searchPStepName : ClickIcon
+05/15/2018 00:28:43, INFO  , searchPStepNumber : 11.0
+05/15/2018 00:28:43, INFO  , ClickIcon
+05/15/2018 00:28:43, INFO  , Calling CLICK_ICON
+05/15/2018 00:28:58, INFO  , searchPStepName : Sleep
+05/15/2018 00:28:58, INFO  , searchPStepNumber : 10.0
+05/15/2018 00:28:58, INFO  , Sleep
+05/15/2018 00:28:58, INFO  , Task SLEEP - Started
+05/15/2018 00:29:00, INFO  , Task SLEEP - Ended
+05/15/2018 00:29:00, INFO  , searchPStepName : ClickIcon
+05/15/2018 00:29:00, INFO  , searchPStepNumber : 11.0
+05/15/2018 00:29:00, INFO  , ClickIcon
+05/15/2018 00:29:00, INFO  , Calling CLICK_ICON

@@ -1,0 +1,36 @@
+10/09/2017 13:53:05, INFO  , searchPStepName : NavigateUrl
+10/09/2017 13:53:05, INFO  , searchPStepNumber : 1.0
+10/09/2017 13:53:05, INFO  , NavigateUrl
+10/09/2017 13:53:05, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+10/09/2017 13:53:28, INFO  , searchPStepName : SelectSite
+10/09/2017 13:53:28, INFO  , searchPStepNumber : 3
+10/09/2017 13:53:28, INFO  , SelectSite
+10/09/2017 13:53:28, INFO  , Task SelectSite - Started
+10/09/2017 13:53:30, INFO  , Task SelectSite - Ended
+10/09/2017 13:53:30, INFO  , searchPStepName : MouseHover
+10/09/2017 13:53:30, INFO  , searchPStepNumber : 3.0
+10/09/2017 13:53:30, INFO  , MouseHover
+10/09/2017 13:53:30, INFO  , Task MOUSE_HOVER - Started
+10/09/2017 13:53:30, INFO  , Task MOUSE_HOVER - Ended
+10/09/2017 13:53:30, INFO  , searchPStepName : Sleep
+10/09/2017 13:53:30, INFO  , searchPStepNumber : 4.0
+10/09/2017 13:53:30, INFO  , Sleep
+10/09/2017 13:53:30, INFO  , Task SLEEP - Started
+10/09/2017 13:53:59, INFO  , searchPStepName : NavigateUrl
+10/09/2017 13:53:59, INFO  , searchPStepNumber : 1.0
+10/09/2017 13:53:59, INFO  , NavigateUrl
+10/09/2017 13:53:59, INFO  , Calling NAVIGATE_URL Task from AccessCMS TestCase Script
+10/09/2017 13:54:24, INFO  , searchPStepName : SelectSite
+10/09/2017 13:54:24, INFO  , searchPStepNumber : 3
+10/09/2017 13:54:24, INFO  , SelectSite
+10/09/2017 13:54:24, INFO  , Task SelectSite - Started
+10/09/2017 13:54:26, INFO  , Task SelectSite - Ended
+10/09/2017 13:54:26, INFO  , searchPStepName : MouseHover
+10/09/2017 13:54:26, INFO  , searchPStepNumber : 3.0
+10/09/2017 13:54:26, INFO  , MouseHover
+10/09/2017 13:54:26, INFO  , Task MOUSE_HOVER - Started
+10/09/2017 13:54:27, INFO  , Task MOUSE_HOVER - Ended
+10/09/2017 13:54:27, INFO  , searchPStepName : Sleep
+10/09/2017 13:54:27, INFO  , searchPStepNumber : 4.0
+10/09/2017 13:54:27, INFO  , Sleep
+10/09/2017 13:54:27, INFO  , Task SLEEP - Started
