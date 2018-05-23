@@ -35,7 +35,7 @@ public class Scroll extends VRSuperClass {
 		actions.keyDown(Keys.CONTROL).sendKeys(Keys.END).perform();
 //		JavascriptExecutor jse = (JavascriptExecutor)driver;
 //		jse.executeScript("window.scrollBy(0,500)", "");
-		System.out.println("git commit");
+		System.out.println("git commit for master");
 		
 		
 		CaptureScreenshot sc = new CaptureScreenshot();
